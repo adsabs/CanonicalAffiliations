@@ -1,0 +1,34 @@
+We currently have assigned identifiers with parent/child relationsips.  A child
+may have multiple parents.  This has required a few modifications to remain useful.
+For instance, so that University of California schools can identify departments,
+we have assigned them a parent status, even though the "University of California
+System" should really be the parent level.  Likewise, NASA's Goddard Space Flight 
+Center is at a parent level, as are France's CNRS institutions.  Further work
+on a schema to allow more complex relationships between institutions is under
+develepment.
+
+The solr fields in ADS that store the affiliation information are:
+
+aff: raw affiliation string, tokenized
+
+aff_id: a string containing one or more of the affiliation ids listed in
+        the parent_child.tsv file in column "ADS_ids." 
+        This field will soon also accept 9-digit ROR ids.
+
+inst:   the abbreviated institution name (e.g. "U Adelaide") listed in the parent_child.tsv file
+
+
+
+
+Examples:
+
+aff:Harvard (81K)                 # returns any affiliation with Harvard, e.g. Harvard Street
+
+aff:"Harvard University" (38K)    # returns affiliations containing the phrase "Harvard University"
+
+aff_id:A00211 (12.7K)             # includes only records with Harvard University at the parent level
+
+inst:"Harvard U" (59K)            # includes all strings that we have associated with Harvard University
+                                    along with its children
+
+
