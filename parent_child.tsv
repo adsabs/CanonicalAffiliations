@@ -475,6 +475,7 @@ A00236	A11144	Dep Phy	University of Colorado, Boulder, Department of Physics
 A00236	A11219	JILA	Joint Institute for Laboratory Astrophysics, Boulder
 0	A00241	U CO	University of Colorado System
 0	A00242	UCAR	University Corporation for Atmospheric Research, Colorado
+A00242	A06188	GFDL	Geophysical Fluid Dynamics Laboratory
 0	A00243	Bowling Green St U	Bowling Green State University, Ohio
 0	A00244	W KY U	Western Kentucky University
 0	A00245	U Bradford	University of Bradford, UK
@@ -838,6 +839,8 @@ A00525	A11726	Inst Geop Res	University of Alberta, Institute for Geophysical Res
 A00525	A11727	Inst Theo Phy	University of Alberta, Institute for Theoretical Physics
 0	A00528	U London	University of London, UK
 A00528	A00529	Ryl Holloway	Royal Holloway University of London
+A00528	A06190	ICR UK	Institute of Cancer Research, London
+A00528	A06193	LSHTM	London School of Hygiene and Tropical Medicine
 A00528	A11768	SEPnet	South-East Physics Network
 0	A00530	TU Eindhoven	Technical University of Eindhoven, Netherlands
 0	A00531	Philips	Philips Electronics Amsterdam
@@ -1615,6 +1618,7 @@ A01135	A01137	Dep Chem	Princeton University, Department of Chemistry
 A01135	A01138	PPPL	Princeton Plasma Physics Laboratory
 A01135	A01139	Sch Eng	Princeton University, School of Engineering and Applied Science
 A01135	A01140	Dep Ast Sci	Princeton University, Department of Astrophysical Sciences
+A01135	A06188	GFDL	Geophysical Fluid Dynamics Laboratory
 A01135	A11023	Dep Phy	Princeton University, Department of Physics
 0	A01141	Brown U	Brown University, Rhode Island
 A01141	A01142	Dep Geo Sci	Brown University, Department of Geological Sciences
@@ -1697,6 +1701,7 @@ A01200	A01210	GLERL	NOAA, Great Lakes Environmental Research Laboratory
 A01200	A01211	Atl Oc Met Lab	NOAA, Atlantic Oceanographic and Meteorological Laboratory
 A01200	A01220	JISAO	Joint Institute for the Study of the Atmosphere and Ocean
 A01200	A05864	NWC	NOAA, National Weather Center
+A01200	A06188	GFDL	Geophysical Fluid Dynamics Laboratory
 A01200	A11153	Boulder	National Oceanic and Atmospheric Administration, Boulder
 A01200	A11805	Pac Mar Env Lab	NOAA Pacific Marine Environmental Laboratory
 A01200	A13037	CIRA	Cooperative Institute for Research in the Atmosphere
@@ -3680,6 +3685,7 @@ A02976	A04661	LEGOS	Observatoire Mid Pyrenees, LEGOS, Laboratoire d'Etudes en Ge
 A02976	A04663	GET Toulouse	Geosciences Environnement Toulouse
 A02976	A05218	Ctr Ocgy Marseille	Centre d'Oceanologie de Marseille
 A02976	A05241	LNCMI-T	National Laboratory of Intense Magnetic Fields, Toulouse
+A02976	A06179	Lab d'Aero	Laboratoire d'Aerologie
 0	A02988	U Tours	Universite Francois Rabelais, Tours, France
 A02988	A02989	LMPT	Laboratoire de Mathematiques et Physique Theorique
 0	A02990	U Valenciennes	Universite de Valenciennes, France
@@ -3759,6 +3765,7 @@ A03038	A03052	PDI	Paul Drude Institute for Solid State Electronics, Berlin
 A03038	A03053	IPHT	Leibniz Institute of Photonic Technology, Jena
 A03038	A03054	MNH Berlin	Museum of Natural History, Berlin
 A03038	A03055	ISAS Berlin	Leibniz Institute for Analytical Sciences, Berlin
+A03038	A06183	PIK Potsdam	Potsdam Institute for Climate Impact Research
 0	A03056	IPN	National Polytechnic Institute, Mexico
 A03056	A03057	ESFM IPN	Superior School of Physics and Mathematics of the National Polytechnic Institute
 A03056	A03058	CINVESTAV IPN	Center for Research and Advanced Studies of the National Polytechnic Institute
@@ -5534,6 +5541,7 @@ A04659	A04660	IRAP	L'Institut de Recherche en Astrophysique et Planetologie
 A04659	A04661	LEGOS	Observatoire Mid Pyrenees, LEGOS, Laboratoire d'Etudes en Geophysique et Oceanographie Spatiales
 A04659	A04662	CIRIL	Centre Interdisciplinaire de Recherche Ions-Lasers
 A04659	A04663	GET Toulouse	Geosciences Environnement Toulouse
+A04659	A06179	Lab d'Aero	Laboratoire d'Aerologie
 A04659	A11284	DTP	Observatoire Mid Pyrenees, DTP, Laboratoire de Dynamique Terrestre et Planetaire
 0	A04664	Jan Dlugosz U	Jan Dlugosz University, Poland
 0	A04665	U Podlasie	University of Podlasie, Poland
@@ -7013,6 +7021,24 @@ A06163	A06164	LRI	Lerner Research Institute, Ohio
 0	A06167	Otterbein U	Otterbein University, Ohio
 0	A06169	Augustana U SD	Augustana College, South Dakota
 0	A06170	Marshall U	Marshall University, West Virginia
+0	A06173	QNLMST	Qingdao National Laboratory for Marine Science and Technology, China
+0	A06174	FAFU	Fujian Agriculture and Forestry University, China
+0	A06175	Shandong Agr U	Shandong Agricultural University, China
+0	A06176	Shanghai U Eng Sci	Shanghai University of Engineering Science, China
+0	A06177	Foshan U 	Foshan University, China
+0	A06178	U Paris-Saclay	Univeristy of Paris-Saclay, France
+0	A06180	Bruker US	Bruker Corporation, US
+A06180	A06181	Bruker DE	Bruker BioSpin, Germany
+A06180	A06182	Bruker UK	Bruker AXS, UK
+0	A06184	BAERI	Bay Area Environmental Research Institute, California
+0	A06185	GSK UK	GlaxoSmithKline, UK
+A06185	A06186	GSK US	GlaxoSmithKline, US
+0	A06187	NASA Dryden	NASA Dryden Research Center
+0	A06189	JIC	John Innes Centre, UK
+0	A06191	U Derby	University of Derby, UK
+0	A06192	U Huddersfield	University of Huddersfield, UK
+0	A06194	Rothamsted Res	Rothamsted Research, UK
+0	A06195	NW Ind Coll	Northwest Indian College
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
