@@ -35,7 +35,7 @@ Czech Republic		A11367	Upice Obs	Upice Observatory, Czech Republic
 Poland		A11371	Polish Soc Am Ast	Polish Society of Amateur Astronomers
 Poland		A11372	Olsztyn Ast Obs	Olsztyn Astronomical Observatory, Poland
 Poland		A11374	Chorzow Ast Obs	Chorzow Astronomical Observatory, Poland
-France		A11381	Obs Cantonal	Observatoire Cantonal de Neuchatel, France
+France		A11381	Obs Cantonal	Observatoire Cantonal de Neuchatel, Switzerland
 Italy		A11390	EGO	European Gravitational Observatory, Pisa, Italy
 Italy		A11412	Ast Obs Aosta	Astronomical Observatory of Aosta, Italy
 Italy		A11413	Talmassons Obs	Talmassons Observatory, Italy
@@ -1300,7 +1300,7 @@ USA		A00888	U S AL	University of South Alabama
 Canada		A00889	U Moncton	University of Moncton, Canada
 USA		A00890	W OR U	Western Oregon University
 USA		A00891	U Montevallo	University of Montevallo, Alabama
-France		A00892	Ecole Poly Montreal	Ecole Polytechnique de Montreal
+Canada		A00892	Ecole Poly Montreal	Ecole Polytechnique de Montreal, Canada
 Canada	A00892	A13034	GEOTOP	GEOTOP Research Center, Canada
 Canada		A00893	Concordia U	Concordia University, Canada
 Canada		A00894	McGill U	McGill University, Canada
@@ -2369,7 +2369,7 @@ Italy	A01725	A01745	Parma	CNR Institute of Materials for Electronics and Magneti
 Italy	A01725	A01746	INFM	Italian National Institute for Material Physics, Rome
 Italy	A01725	A01747	Opt Pisa	CNR, Institute of Optics, Pisa
 Italy	A01725	A01748	Venice	Italian National Research Council, Venice
-France	A01725	A01749	IPCF Rende	Institute for Chemical Physics Processes, Rende
+Italy	A01725	A01749	IPCF Rende	Institute for Chemical Physics Processes, Rende
 Italy	A01725	A01750	CSCC	Institute of Crystallography, Pavia
 Italy	A01725	A01751	Bologna	Italian National Research Council, Bologna
 Italy	A01725	A01753	Inst Cyb	Edoardo Caianello Institute of Cybernetics, Naples
@@ -3729,9 +3729,9 @@ Switzerland		A03009	U Neuchatel	University of Neuchatel, Switzerland
 Switzerland		A03010	U Lugano	University of Lugano, Switzerland
 Switzerland		A03011	U Zurich	University of Zurich, Switzerland
 Switzerland	A03011	A11293	Inst Phy	University of Zurich, Institute of Physics
-France		A03012	EPFL	Ecole Polytechnique Federale de Lausanne
-France	A03012	A03013	Sec Phy	Ecole Polytechnique Federale de Lausanne, Section de Physique
-France	A03012	A11266	Lab Astrop	Ecole Polytechnique Federale de Lausanne, Laboratoire d'Astrophysique
+Switzerland		A03012	EPFL	Ecole Polytechnique Federale de Lausanne
+Switzerland	A03012	A03013	Sec Phy	Ecole Polytechnique Federale de Lausanne, Section de Physique
+Switzerland	A03012	A11266	Lab Astrop	Ecole Polytechnique Federale de Lausanne, Laboratoire d'Astrophysique
 Switzerland		A03014	ETH Zurich	Eidgenossische Technische Hochschule, Zurich, Switzerland
 Switzerland	A03014	A03015	Dep Ear Sci	ETH Zurich, Department of Earth Sciences
 Switzerland	A03014	A03016	PSI CH	Paul Scherrer Institute, Switzerland
@@ -6447,7 +6447,7 @@ India		A05500	Gurucharan Coll	Gurucharan College, India
 India		A05501	Cotton Coll	Cotton College, India
 India		A05502	JGEC	Jalpaiguri Government Engineering College, India
 France		A05503	CNISM	Interuniversity Consortium for the Sciences of Physical Matter, France
-France	A05503	A11379	CIFS	Interuniversity Consortium for Space Physics
+Italy	A05503	A11379	CIFS	Interuniversity Consortium for Space Physics
 China		A05504	CCAST	China Center of Advanced Science and Technology
 China		A05505	Jiangsu Env Prot Dep	Jiangsu Province Environmental Protection Department, China
 Argentina		A05506	IANIGLA	Argentine Institute of Snow Research, Glaciology and Environmental Studies
