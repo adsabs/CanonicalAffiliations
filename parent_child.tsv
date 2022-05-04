@@ -4494,7 +4494,7 @@ A03664	A11228	Las Cumbres Obs	Las Cumbres Observatory Global Telescope
 0	A03670	NRL	U.S. Department of the Navy, Naval Research Laboratory, Washington DC
 A03670  A11049  Hulburt Ctr Sp Res  E.O. Hulburt Center for Space Research, NRL
 0	A11048	USNO	U.S. Naval Observatory
-A11048	A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
+A11048  A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
 0	A03671	STScI	Space Telescope Science Institute, Baltimore, Maryland
 0	A03672	NRAO	National Radio Astronomy Observatory, Virginia
 A03672	A03673	Mauna Kea	National Radio Astronomy Observatory, Mauna Kea
