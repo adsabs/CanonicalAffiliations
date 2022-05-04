@@ -4491,7 +4491,7 @@ A03664	A03667	NSO	National Solar Observatory, Sunspot New Mexico
 A03664	A11228	Las Cumbres Obs	Las Cumbres Observatory Global Telescope
 0	A03668	Dakota St U	Dakota State University, South Dakota
 0	A03669	Dixie St U	Dixie State University, Utah
-0	A03670	NRL	U.S. Department of the Navy, Naval Research Laboratory, Washington DC
+0 A03670  NRL U.S. Department of the Navy, Naval Research Laboratory, Washington DC
 A03670  A11049  Hulburt Ctr Sp Res  E.O. Hulburt Center for Space Research, NRL
 0	A11048	USNO	U.S. Naval Observatory
 A11048  A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
