@@ -2000,7 +2000,6 @@ A01409	A13050	GESTAR	Goddard Earth Sciences Technology and Research
 A01411	A01412	Nav Ac	U.S. Naval Academy
 A01411	A05886	KAPL	Knolls Atomic Power Lab, New York
 A01411	A05999	Nav Postgrad Sch	U.S. Naval Academy Postgraduate School, California
-A01411	A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
 0	A01413	Exec Off Pres	Executive Office of the President
 A01413	A05803	USFDA	United States Food and Drug Administration, Maryland
 0	A01414	Lib Cong	U.S. Library of Congress
@@ -4493,8 +4492,9 @@ A03664	A11228	Las Cumbres Obs	Las Cumbres Observatory Global Telescope
 0	A03668	Dakota St U	Dakota State University, South Dakota
 0	A03669	Dixie St U	Dixie State University, Utah
 0	A03670	NRL	U.S. Department of the Navy, Naval Research Laboratory, Washington DC
-A03670	A11048	USNO	U.S. Naval Observatory
-A03670	A11049	Hulburt Ctr Sp Res	E.O. Hulburt Center for Space Research, NRL
+A03670  A11049  Hulburt Ctr Sp Res  E.O. Hulburt Center for Space Research, NRL
+0	A11048	USNO	U.S. Naval Observatory
+A11048	A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
 0	A03671	STScI	Space Telescope Science Institute, Baltimore, Maryland
 0	A03672	NRAO	National Radio Astronomy Observatory, Virginia
 A03672	A03673	Mauna Kea	National Radio Astronomy Observatory, Mauna Kea
