@@ -250,11 +250,11 @@ A00065	A11214	Livermore	Sandia National Laboratories, Livermore, California
 0	A00074	IA St U	Iowa State University
 A00074	A00075	Ames Res Lab	Ames Research Laboratory
 A00074	A11110	Dep Phy Ast	Iowa State University, Department of Physics and Astronomy
-0 A00076  Amherst Coll  Amherst College, Massachusetts
-A00076  A06602  FCAD  Five College Astronomy Department
+0	A00076	Amherst Coll	Amherst College, Massachusetts
+A00076	A06602	FCAD	Five College Astronomy Department
 A00076	A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A00077	Hampshire Coll	Hampshire College, Massachusetts
-A00077  A06602  FCAD  Five College Astronomy Department
+A00077	A06602	FCAD	Five College Astronomy Department
 A00077	A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A00078	KNAW	Koninklijke Nederlandse Academie van Wetenschappen
 0	A00079	VU Amsterdam	Free University of Amsterdam, Netherlands
@@ -466,7 +466,7 @@ A00230	A00232	Boston	UMass Boston
 A00230	A00233	Dartmouth	UMass Dartmouth
 A00230	A00234	Lowell	UMass Lowell
 A00230	A05878	Med Sch	UMass Medical School, Worcester
-A00230  A06602  FCAD  Five College Astronomy Department
+A00230	A06602	FCAD	Five College Astronomy Department
 A00230	A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A00235	Brigham Wmns Hosp	Brigham and Womens Hospital, Massachusetts
 A00235	A05874	MADRC	Massachusetts Alzheimer's Disease Research Center
@@ -1466,7 +1466,7 @@ A00989	A00990	Dep Ast Phy	Radboud University Nijmegen, Department of Astronomy a
 0	A00994	IL St U Normal	Illinois State University, Normal
 0	A00995	U Northampton	University of Northampton, UK
 0	A00996	Smith Coll	Smith College, Massachusetts
-A00996  A06602  FCAD  Five College Astronomy Department
+A00996	A06602	FCAD	Five College Astronomy Department
 A00996	A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A00997	Norwich U	Norwich University, Vermont
 0	A00998	Carleton Coll	Carleton College, Minnesota
@@ -1769,7 +1769,7 @@ A01229	A01231	Dep Phy Ast	University of Sheffield, Department of Physics and Ast
 A01236	A11174	Dep Phy	New Mexico Institute of Mining and Technology, Department of Physics
 0	A01237	Mt Holyoke Coll	Mount Holyoke College, Massachusetts
 A01237	A06602	FCAD	Five College Astronomy Department
-A01237  A11027	FCRAO	Five College Radio Astronomy Observatory
+A01237	A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A01238	U Southampton	University of Southampton, UK
 A01238	A01239	Sch Oc Ear Sci	University of Southampton, School of Ocean and Earth Science
 A01238	A01240	Sch Phy Ast	University of Southampton, School of Physics and Astronomy
