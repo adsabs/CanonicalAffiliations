@@ -1769,7 +1769,7 @@ A01229	A01231	Dep Phy Ast	University of Sheffield, Department of Physics and Ast
 A01236	A11174	Dep Phy	New Mexico Institute of Mining and Technology, Department of Physics
 0	A01237	Mt Holyoke Coll	Mount Holyoke College, Massachusetts
 A01237	A06602	FCAD	Five College Astronomy Department
-A01237	A11027	FCRAO	Five College Radio Astronomy Observatory
+A01237  A11027	FCRAO	Five College Radio Astronomy Observatory
 0	A01238	U Southampton	University of Southampton, UK
 A01238	A01239	Sch Oc Ear Sci	University of Southampton, School of Ocean and Earth Science
 A01238	A01240	Sch Phy Ast	University of Southampton, School of Physics and Astronomy
