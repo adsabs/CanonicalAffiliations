@@ -2395,10 +2395,10 @@ Italy	A01725	A13062	Trieste	CNR Institute for Material Physics, Trieste
 Italy	A01725	A13075	IASF Palermo	Institute for Cosmic Physics, Palermo
 Italy		A01759	U Parma	University of Parma, Italy
 Italy	A01759	A01760	Dep Phy Ear Sci	University of Parma, Department of Physics and Earth Sciences
-Italy		A01761	U Berlin	Humboldt University of Berlin, Germany
+Germany		A01761	U Berlin	Humboldt University of Berlin, Germany
 Germany	A01761	A01762	Inst Phy	University of Berlin, Institute for Physics
 Germany	A01761	A03054	Mus Nat Hist Berlin	Museum of Natural History, Berlin
-Italy		A01764	U Bonn	Rheinische Friedrich Wilhelms University of Bonn, Germany
+Germany		A01764	U Bonn	Rheinische Friedrich Wilhelms University of Bonn, Germany
 Germany	A01764	A01763	Inst Phy	University of Bonn, Institute of Physics
 Germany	A01764	A01765	Dep Phy Ast	University of Bonn, Department of Physics and Astronomy
 Germany	A01764	A01766	Bethe Ctr Phy	University of Bonn, Bethe Center for Physics
@@ -2406,18 +2406,18 @@ Germany	A01764	A01767	Inst Phy Theo Chem	University of Bonn, Institute of Physic
 Germany	A01764	A01768	Inst Rad Nuc Phy	University of Bonn, Helmholtz Institute for Radiation and Nuclear Physics
 Germany	A01764	A01769	Inst App Phy	University of Bonn, Institute for Applied Physics
 Germany	A01764	A01770	Argelander Inst Ast	University of Bonn, Argelander Institute for Astronomy
-Italy		A01771	U Gottingen	Georg August University of Gottingen, Germany
+Germany		A01771	U Gottingen	Georg August University of Gottingen, Germany
 Germany	A01771	A01772	Inst Astrop	University of Gottingen, Institute for Astrophysics
 Germany	A01771	A01773	Ctr Geop	University of Gottingen, Center for Geophysics
 Germany	A01771	A01774	Inst Phy	University of Gottingen, Institute for Physics
-Italy		A01775	U Magdeburg	Otto von Guericke University of Magdeburg, Germany
-Italy		A01776	U Marburg	Philipps University of Marburg, Germany
+Germany		A01775	U Magdeburg	Otto von Guericke University of Magdeburg, Germany
+Germany		A01776	U Marburg	Philipps University of Marburg, Germany
 Germany	A01776	A01777	Dep Phy	Philipps University of Marburg, Department of Physics
-Italy		A01778	U Jena	Friedrich Schiller University of Jena, Germany
+Germany		A01778	U Jena	Friedrich Schiller University of Jena, Germany
 Germany	A01778	A01779	Dep Phy Ast	University of Jena, Department of Physics and Astronomy
 Germany	A01778	A01780	Ast Inst	University of Jena, Astrophysical Institute
 Germany	A01778	A01781	Inst Geos	University of Jena, Institute for Geosciences
-Italy		A01782	U Saarland	University of Saarland, Germany
+Germany		A01782	U Saarland	University of Saarland, Germany
 UK		A01783	Natl Phy Lab	National Physical Laboratory, UK
 USA		A01784	U AL Birmingham	University of Alabama, Birmingham
 Canada		A01785	HydroQuebec	Hydro-Quebec, Montreal, Canada
