@@ -2271,10 +2271,8 @@ A01622	A01626	Inst Phy	University of Mainz, Institute for Physics
 A01627	A01628	Dep Phy	University of Munich, Department of Physics
 A01627	A01629	Dep Geos	University of Munich, Department of Geosciences
 A01627	A11474	Inst Ast Astrop	University of Munich, Institute of Astronomy and Astrophysics
-A01627	A11478	Excel Cluster Uni	Excellence Cluster Universe
 0	A01630	TU Munich	Munich University of Technology, Germany
 A01630	A01631	Dep Phy	Munich University of Technology, Department of Physics
-A01630	A11478	Excel Cluster Uni	Excellence Cluster Universe
 A01630	A11479	Inst Ast Phy Geod	Munich University of Technology, Institute for Astronomical and Physical Geodesy
 A01630	A11482	DGFI	German Geodetics Research Institute
 0	A01632	U Munster	Wilhelms University of Munster, Germany
@@ -4883,7 +4881,6 @@ A03990	A11145	Hi Alt Obs	National Center for Atmospheric Research, High Altitude
 0	A03996	AIP	American Institute of Physics, New York
 0	A03997	ESO	European Southern Observatory, Germany
 A03997	A03998	Chile	European Southern Observatory, Chile
-A03997	A11478	Excel Cluster Uni	Excellence Cluster Universe
 A03997	A11480	STECF	ESO, Space Telescope European Coordinating Facility
 0	A03999	Karl Schwarz Obs	Karl Schwarzschild Observatory, Tautenburg, Germany
 A03999	A11507	Sonneberg Obs	Sonneberg Observatory
