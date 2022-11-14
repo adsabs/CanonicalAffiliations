@@ -3105,7 +3105,6 @@ A02290	A04639	CAB Madrid	Center for Astrobiology, Madrid
 A02290	A05975	IQF	CSIC, Institute of Physical Chemistry Rocasolano
 A02290	A05976	IO	CSIC, Institute of Optics
 A02290	A05977	ICMB	CSIC, Instituto Ciencia de Materiales, Barcelona
-A02290	A11309	IAC	Astrophysical Institute of the Canaries
 A02290	A11311	Tenerife	Tenerife Observatory
 A02290	A11316	IFAE Barc	Institute for High Energy Physics, Barcelona
 A02290	A11324	LAEFF	Laboratory for Space Astrophysics and Theoretical Physics
@@ -3171,7 +3170,6 @@ A02370	A11332	Dep Phy	University of Jaen, Department of Physics
 0	A02372	U La Laguna	University of La Laguna, Spain
 A02372	A02373	Dep Phy	University of La Laguna, Department of Physics
 A02372	A11308	Dep Astrop	University of La Laguna, Department of Astrophysics
-A02372	A11309	IAC	Astrophysical Institute of the Canaries
 A02372	A11310	La Palma Obs	La Palma Observatories
 A02372	A11311	Tenerife	Tenerife Observatory
 0	A02374	U Las Palmas	University of Las Palmas, Spain
@@ -7489,6 +7487,7 @@ A06600	A11115	KICP	University of Chicago, Kavli Institute for Cosmological Physi
 A06600	A11565	KIAA	Kavli Institute for Astronomy and Astrophysics
 A06600	A11617	IPMU	University of Tokyo, Kavli Institute for the Physics and Mathematics of the Universe
 A06600	A13109	KITP	University of California, Santa Barbara, Kavli Institute for Theoretical Physics
+0 A06603  IAC Astrophysical Institute of the Canaries, Spain
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
