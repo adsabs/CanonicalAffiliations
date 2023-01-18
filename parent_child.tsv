@@ -4506,7 +4506,7 @@ A03670	A11049	Hulburt Ctr Sp Res	E.O. Hulburt Center for Space Research, NRL
 0	A11048	USNO	U.S. Naval Observatory
 A11048	A11165	Flagstaff	U.S. Naval Observatory, Flagstaff
 0	A03671	STScI	Space Telescope Science Institute, Baltimore, Maryland
-A03671  A13114  ESA Office  Space Telescope Science Institute, ESA Office, Baltimore, Maryland
+A03671	A13114	ESA Office	Space Telescope Science Institute, Baltimore, Maryland
 0	A03672	NRAO	National Radio Astronomy Observatory, Virginia
 A03672	A03673	Mauna Kea	National Radio Astronomy Observatory, Mauna Kea
 A03672	A03674	ALMA Chile	ALMA Science Center, Chile
@@ -5592,7 +5592,7 @@ A04638	A11321	MDSCC	Madrid Deep Space Communication
 A04638	A11324	LAEFF	Laboratory for Space Astrophysics and Theoretical Physics
 A04638	A11376	ESRIN	European Space Research Institute
 A04638	A11397	ASDC	ASI Science Data Center
-A04638  A13114  ESA Office  Space Telescope Science Institute, ESA Office, Baltimore, Maryland
+A04638	A13114	ESA Office	Space Telescope Science Institute, Baltimore, Maryland
 0	A04644	Hellenic Open U	Hellenic Open University, Greece
 0	A04645	U Athens	National and Kapodistrian University of Athens, Greece
 A04645	A04646	Dep Phy	University of Athens, Department of Physics
