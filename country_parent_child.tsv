@@ -35,7 +35,7 @@ Czech Republic		A11367	Upice Obs	Upice Observatory, Czech Republic
 Poland		A11371	Polish Soc Am Ast	Polish Society of Amateur Astronomers
 Poland		A11372	Olsztyn Ast Obs	Olsztyn Astronomical Observatory, Poland
 Poland		A11374	Chorzow Ast Obs	Chorzow Astronomical Observatory, Poland
-France		A11381	Obs Cantonal	Observatoire Cantonal de Neuchatel, Switzerland
+Switzerland		A11381	Obs Cantonal	Observatoire Cantonal de Neuchatel, Switzerland
 Italy		A11390	EGO	European Gravitational Observatory, Pisa, Italy
 Italy		A11412	Ast Obs Aosta	Astronomical Observatory of Aosta, Italy
 Italy		A11413	Talmassons Obs	Talmassons Observatory, Italy
@@ -174,7 +174,7 @@ Finland		A00021	Abo Akademi U	Abo Akademi University, Finland
 USA		A00022	OH Nrthn U	Ohio Northern University
 Australia		A00023	S Austr Mus	South Australian Museum
 Australia		A00024	Flinders U	Flinders University, Australia
-Australia	A00024	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
+Australia	A00024	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
 Australia		A00025	U Adelaide	University of Adelaide, Australia
 Australia	A00025	A11673	Sch Phy	University of Adelaide, School of Physics
 Australia	A00025	A11674	Sch Ear Env Sci	University of Adelaide, School of Earth and Environmental Sciences
@@ -358,7 +358,7 @@ USA		A00151	Morgan St U	Morgan State University, Maryland
 USA	A00151	A13050	GESTAR	Goddard Earth Sciences Technology and Research
 USA		A00152	Towson U	Towson University, Maryland
 UK		A00153	U Coll Bangor	University College of Bangor, UK
-UK	A00153	A01299	Ctr Ecol Hydro	Center for Ecology and Hydrology
+UK	A00153	A01299	Ctr Ecol Hydro	Centre for Ecology and Hydrology
 Switzerland		A00155	F Hoffmann Roche	F Hoffmann-La Roche Ltd, Switzerland
 UK		A00156	U Bath	University of Bath, UK
 USA		A00157	InterAmer U	Inter American University of Puerto Rico
@@ -379,8 +379,8 @@ USA		A00171	Bennington Coll	Bennington College, Vermont
 Australia		A00172	Curtin U	Curtin University, Australia
 Australia	A00172	A00173	Tech	Curtin University of Technology
 Malaysia	A00172	A00174	Tech Malaysia	Curtin University of Technology, Malaysia
-Australia	A00172	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
-Australia	A00172	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00172	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
+Australia	A00172	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00172	A11676	ICRAR	International Center for Radio Astronomy Research
 Australia	A00172	A11677	Dep Phy	Curtin University, Department of Physics
 USA		A00175	Berea Coll	Berea College, Kentucky
@@ -492,7 +492,7 @@ Australia		A00254	U Queensland	University of Queensland, Australia
 Australia	A00254	A00255	AIBN	University of Queensland, Australian Institute for Bioengineering and Nanotechnology
 Australia	A00254	A00256	Sch Ear Sci	University of Queensland, School of Earth Sciences
 Australia	A00254	A00257	Sch Math Phy	University of Queensland, School of Mathematics and Physics
-Australia	A00254	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00254	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00254	A11720	CQC2T	Centre for Quantum Computation and Communication Technology
 UK		A00258	U Bristol	University of Bristol, UK
 UK	A00258	A00259	Sch Chem	University of Bristol, School of Chemistry
@@ -592,8 +592,8 @@ Australia	A00339	A00340	Res Sch Phy Eng	ANU, Research School of Physics and Engi
 Australia	A00339	A00341	Res Sch Ear Sci	ANU, Research School of Earth Sciences
 Australia	A00339	A00342	Res Sch Ast Astrop	ANU, Research School of Astronomy and Astrophysics
 Australia	A00339	A00343	MSSSO	ANU, Mount Stromlo and Siding Spring Observatories
-Australia	A00339	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
-Australia	A00339	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00339	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
+Australia	A00339	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00339	A11705	CoECSS	Centre of Excellence for Climate System Science
 Australia	A00339	A11720	CQC2T	Centre for Quantum Computation and Communication Technology
 Australia		A00344	CSIRO	Commonwealth Scientific and Industrial Research Organization, Australia
@@ -603,7 +603,7 @@ Australia	A00344	A00347	Div RadPhy	CSIRO Division of Radiophysics
 Australia	A00344	A00348	ESRE	CSIRO Earth Science and Resource Engineering
 Australia	A00344	A00349	Ast Sp Sci	CSIRO Astronomy and Space Science
 Australia	A00344	A00350	Div App Phy	CSIRO Division of Applied Physics
-Australia	A00344	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
+Australia	A00344	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
 Australia	A00344	A11660	ACECRC	Antarctic Climate and Ecosystems Cooperative Research Centre
 Australia	A00344	A11675	CASWR	Centre for Australian Weather and Climate Research
 Australia		A00351	DSTO	Defence Science and Technology Organization, Australia
@@ -618,7 +618,7 @@ USA		A00358	SE Missouri St U	Southeast Missouri State University
 USA		A00359	S IL U	Southern Illinois University
 USA		A00360	Dickinson Coll	Dickinson College, Pennsylvania
 Australia		A00361	U Melbourne	University of Melbourne, Australia
-Australia	A00361	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00361	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00361	A11671	Dep Phy	University of Melbourne, Department of Physics
 Australia	A00361	A11672	Dep Ear Sci	University of Melbourne, Department of Earth Sciences
 Australia	A00361	A11705	CoECSS	Centre of Excellence for Climate System Science
@@ -735,8 +735,8 @@ USA		A00445	Wabash Coll	Wabash College, Indiana
 Australia		A00446	U West Austr	University of Western Australia
 Australia	A00446	A00447	Sch Ear Env	University of Western Australia, School of Earth and Environment
 Australia	A00446	A00448	Sch Phy	University of Western Australia, School of Physics
-Australia	A00446	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
-Australia	A00446	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00446	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
+Australia	A00446	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00446	A11676	ICRAR	International Center for Radio Astronomy Research
 USA		A00449	UNC	North Carolina University System
 USA	A00449	A00450	UNC W Carolina U	Western Carolina University, North Carolina
@@ -991,7 +991,7 @@ UK	A00647	A00648	Sch Phy Ast Math	University of Hertfordshire, School of Physics
 UK	A00647	A11768	SEPnet	South East Physics Network
 USA		A00649	Haverford Coll	Haverford College, Pennsylvania
 Australia		A00650	Swinburne U Tech	Swinburne University of Technology, Australia
-Australia	A00650	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00650	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00650	A11668	Ctr Ast Supercomp	Swinburne University of Technology, Center for Astrophysics and Supercomputing
 Finland		A00651	U Helsinki	University of Helsinki, Finland
 Finland	A00651	A00652	Fac Sci	University of Helsinki, Faculty of Science
@@ -1092,7 +1092,7 @@ Denmark	A00728	A00731	Nat Hist Mus	University of Copenhagen, Natural History Mus
 Australia		A00732	U Sydney	University of Sydney, Australia
 Australia	A00732	A00733	Dep Phy	University of Sydney, Department of Physics
 Australia	A00732	A00734	Dep Geos	University of Sydney, Department of Geosciences
-Australia	A00732	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
+Australia	A00732	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
 Australia	A00732	A11666	Dep Ast	University of Sydney, Department of Astronomy
 Australia	A00732	A11679	Cornell Sydney U	Cornell Sydney University
 Australia	A00732	A11717	CoEPP	Centre of Excellence for Particle Physics at the Terascale
@@ -1300,7 +1300,7 @@ USA		A00888	U S AL	University of South Alabama
 Canada		A00889	U Moncton	University of Moncton, Canada
 USA		A00890	W OR U	Western Oregon University
 USA		A00891	U Montevallo	University of Montevallo, Alabama
-Canada		A00892	Ecole Poly Montreal	Ecole Polytechnique de Montreal, Canada
+Canada		A00892	Ecole Poly Montreal	Ecole Polytechnique de Montreal
 Canada	A00892	A13034	GEOTOP	GEOTOP Research Centre, Canada
 Canada		A00893	Concordia U	Concordia University, Canada
 Canada		A00894	McGill U	McGill University, Canada
@@ -1340,7 +1340,7 @@ USA		A00915	Cornell Coll	Cornell College, Iowa
 USA		A00916	Berry Coll	Berry College, Georgia
 USA		A00917	Ball St U	Ball State University, Indiana
 Australia		A00918	Murdoch U	Murdoch University, Australia
-Australia	A00918	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
+Australia	A00918	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
 USA		A00919	Murray St U	Murray State University, Kentucky
 USA		A00920	SF Austin St U	Stephen F Austin State University, Texas
 USA		A00921	Fisk U	Fisk University, Tennessee
@@ -1349,7 +1349,7 @@ USA		A00923	Vanderbilt U	Vanderbilt University, Tennessee
 USA	A00923	A11017	Dep Phy Ast	Vanderbilt University, Department of Physics and Astronomy
 USA	A00923	A11018	Dyer Obs	Vanderbilt University, Dyer Observatory
 Australia		A00924	Griffith U	Griffith University, Australia
-Australia	A00924	A11642	CEAMS	Centre of Excellence in Antimatter-Matter Studies
+Australia	A00924	A11642	CEAMS	Center of Excellence in Antimatter-Matter Studies
 Australia	A00924	A11720	CQC2T	Centre for Quantum Computation and Communication Technology
 USA		A00925	Yale U	Yale University, Connecticut
 USA	A00925	A00926	Dep Geo Geop	Yale University, Department of Geology and Geophysics
@@ -1748,7 +1748,7 @@ UK		A01238	U Southampton	University of Southampton, UK
 UK	A01238	A01239	Sch Oc Ear Sci	University of Southampton, School of Ocean and Earth Science
 UK	A01238	A01240	Sch Phy Ast	University of Southampton, School of Physics and Astronomy
 UK	A01238	A01241	Aero Astnau	University of Southampton, Aeronautics and Astronautics
-UK	A01238	A01300	Natl Ocgy Ctr	National Oceanography Center, UK
+UK	A01238	A01300	Natl Ocgy Ctr	National Oceanography Centre, UK
 UK	A01238	A11768	SEPnet	South East Physics Network
 USA		A01243	Missouri St U	Missouri State University
 USA	A01243	A11103	Dep Phy Ast	Missouri State University, Department of Physics and Astronomy
@@ -1823,7 +1823,7 @@ UK	A01292	A01301	Plymouth Mar Lab	Plymouth Marine Laboratory, UK
 Australia		A01302	Macquarie U	Macquarie University, Australia
 Australia	A01302	A01303	Dep Ear Plan Sci	Macquarie University, Department of Earth and Planetary Sciences
 Australia	A01302	A01304	Dep Phy Ast	Macquarie University, Department of Physics and Astronomy
-Australia	A01302	A11662	CCFS	Centre of Excellence for Core to Crust Fluid Systems
+Australia	A01302	A11662	CCFS	Center of Excellence for Core to Crust Fluid Systems
 Australia		A01305	U NSW	University of New South Wales, Australia
 Australia	A01305	A01306	UNSW@ADFA	UNSW@ADFA
 Australia	A01305	A01307	Inst Env Stud	University of New South Wales, Institute of Environmental Studies
@@ -2238,8 +2238,10 @@ Germany		A01627	U Munich	Ludwig-Maximilians University of Munich, Germany
 Germany	A01627	A01628	Dep Phy	University of Munich, Department of Physics
 Germany	A01627	A01629	Dep Geos	University of Munich, Department of Geosciences
 Germany	A01627	A11474	Inst Ast Astrop	University of Munich, Institute of Astronomy and Astrophysics
+Germany	A01627	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany		A01630	TU Munich	Munich University of Technology, Germany
 Germany	A01630	A01631	Dep Phy	Munich University of Technology, Department of Physics
+Germany	A01630	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany	A01630	A11479	Inst Ast Phy Geod	Munich University of Technology, Institute for Astronomical and Physical Geodesy
 Germany	A01630	A11482	DGFI	German Geodetics Research Institute
 Germany		A01632	U Munster	Wilhelms University of Munster, Germany
@@ -4064,7 +4066,7 @@ India		A03321	Bangalore U	Bangalore University, India
 India		A03322	IISc	Indian Institute of Science, Bangalore
 India	A03322	A03323	Div Phy Sci	Indian Institute of Science, Division of Physical Sciences
 India		A03324	ISRO	Indian Space Research Organization
-India	A03324	A03325	Sat Ctr	ISRO, Satellite Center
+India	A03324	A03325	Sat Ctr	ISRO, Satellite Centre
 India	A03324	A03326	Sp App Ctr	ISRO, Space Applications Centre
 India	A03324	A03327	VSSC	ISRO, Vikram Sarabhai Space Centre
 India		A03328	JNCASR	Nehru Centre for Advanced Scientific Research, Bangalore, India
@@ -4487,7 +4489,7 @@ Brazil	A03686	A03689	MAST	Museum of Astronomy and Related Sciences, Rio de Janei
 Brazil	A03686	A03690	Natl Ast Obs Brazil	National Astronomy Observatory, Brazil
 Brazil	A03686	A03691	INPE	Brazilian National Institute for Space Research
 Brazil	A03686	A03692	CBPF	Brazilian Center for Physics Research
-France	A03686	A11718	CRAAM	Center for Radio Astronomy and Astrophysics
+Brazil	A03686	A11718	CRAAM	Center for Radio Astronomy and Astrophysics
 Brazil		A03693	Lutheran U Brazil	Lutheran University of Brazil
 Brazil		A03694	St U Maringa	State University of Maringa, Brazil
 Brazil		A03695	U Ribeirao Preto	Universidade de Ribeirao Preto, Brazil
@@ -4829,6 +4831,7 @@ USA		A03995	Maria Mitchell Obs	Maria Mitchell Observatory, Massachusetts
 USA		A03996	AIP	American Institute of Physics, New York
 Germany		A03997	ESO	European Southern Observatory, Germany
 Chile	A03997	A03998	Chile	European Southern Observatory, Chile
+Germany	A03997	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany	A03997	A11480	STECF	ESO, Space Telescope European Coordinating Facility
 Germany		A03999	Karl Schwarz Obs	Karl Schwarzschild Observatory, Tautenburg, Germany
 Germany	A03999	A11507	Sonneberg Obs	Sonneberg Observatory
@@ -4838,9 +4841,9 @@ Belgium		A04002	Hasselt U	Hasselt University, Belgium
 Belgium		A04003	Ryl Mus Cen Afr	Royal Museum for Central Africa, Belgium
 Belgium		A04004	U Namur	Universite de Namur, Belgium
 Belgium		A04005	EC JRC	European Commission Joint Research Centre, Belgium
-Germany	A04005	A04006	Inst TransU	Joint Research Center Institut for Transuranium, Karlsruhe
-Netherlands	A04005	A04007	Inst En Trans	Joint Research Center Institute for Energy and Transport, Netherlands
-Italy	A04005	A04008	Ispra	Ispra, European Commission Joint Research Center, Italy
+Germany	A04005	A04006	Inst TransU	Joint Research Centre Institut for Transuranium, Karlsruhe
+Netherlands	A04005	A04007	Inst En Trans	Joint Research Centre Institute for Energy and Transport, Netherlands
+Italy	A04005	A04008	Ispra	Ispra, European Commission Joint Research Centre, Italy
 Belgium		A04009	FWO	Research Foundation Flanders, Belgium
 Belgium		A04010	VITO	Flemish Institute for Technological Research, Belgium
 Belgium		A04011	U Mons	Universite de Mons, Belgium
@@ -5169,7 +5172,7 @@ South Africa		A04300	U Johannesburg	University of Johannesburg, South Africa
 South Africa		A04301	NRF SA	National Research Foundation, South Africa
 South Africa	A04301	A04302	SAEON	South African Environmental Observation Network
 South Africa	A04301	A04303	SANSA	South African National Space Agency
-South Africa	A04301	A04304	SARAO	South African Radio Astronomy Observatory
+South Africa	A04301	A04304	SARAO	South Aferican Radio Astronomy Observatory
 South Africa	A04301	A04305	SAAO	South African Astronomical Observatory
 South Africa	A04301	A06032	iThemba	iThemba Laboratory for Accelerator Based Sciences
 Lesotho		A04306	Natl U Lesotho	National University of Lesotho
@@ -5193,7 +5196,6 @@ Barbados		A04323	UWI	University of the West Indies System
 Jamaica	A04323	A06326	UWI Jamaica	University of the West Indies, Jamaica
 Barbados	A04323	A06327	UWI Barbados	University of the West Indies at Cave Hill, Barbados
 Trinidad	A04323	A06328	UWI St Augustine	University of the West Indies at Saint Augustine, Trinidad &amp; Tobago
-Antigua	A04323	A06329	UWI Antigua	University of the West Indies, Antigua &amp; Barbuda
 Bahamas	A04323	A06330	UWI Bahamas	University of the West Indies Open Campus, Bahamas
 Kuwait		A04324	KISR	Kuwait Institute for Scientific Research
 Argentina		A04325	CONICET Arg	National Scientific and Technical Research Council, Argentina
@@ -5679,7 +5681,7 @@ China		A04768	SDUST	Shandong University of Science and Technology, China
 Belgium		A04769	Ryl Obs Belgium	Royal Observatory of Belgium
 Belgium	A04769	A11243	Dep Sol Phy	Royal Observatory of Belgium, Department of Solar Physics
 Belgium		A04770	Ryl Mil Ac Belgium	Royal Military Academy of Belgium
-Belgium		A04771	Belgian Nuc Res Ctr	Belgian Nuclear Research Centre
+Belgium		A04771	Belgian Nuc Res Cen	Belgian Nuclear Research Centre
 India		A04772	Berhampur U	Berhampur University, India
 India		A04773	W Bengal U Tech	West Bengal University of Technology, India
 India		A04774	Vidyasagar U	Vidyasagar University, India
@@ -5845,8 +5847,8 @@ China		A04926	Hubei Norm U	Hubei Normal University, China
 Australia		A04927	Austr Res Cncl	Australian Research Council
 Australia	A04927	A11659	CODES	Centre of Excellence in Ore Deposits
 Australia	A04927	A11660	ACECRC	Antarctic Climate and Ecosystems Cooperative Research Centre
-Australia	A04927	A11661	CAASTRO	Centre for Excellence for All Sky Astrophysics
-Australia	A04927	A11662	CCFS	Centre of Excellence for Core to Crust Fluid Systems
+Australia	A04927	A11661	CAASTRO	Center for Excellence for All Sky Astrophysics
+Australia	A04927	A11662	CCFS	Center of Excellence for Core to Crust Fluid Systems
 Australia	A04927	A11705	CoECSS	Centre of Excellence for Climate System Science
 Australia	A04927	A11720	CQC2T	Centre for Quantum Computation and Communication Technology
 Ghana		A04928	KNUST	Kwame Nkrumah University of Science and Technology, Ghana
@@ -7232,3 +7234,361 @@ USA		A99977	Welch Fnd	Robert A. Welch Foundation
 		A99997	Chandra Fel	Chandra Fellow
 		A99998	Sloan Fel	Alfred P. Sloan Fellow
 		A99999	Humboldt Fel	Alexander von Humboldt Fellow
+Finland	A00021	A06362	Turku Bios Ctr	Turku Bioscience Center, Finland
+USA	A00493	A06322	HRL Labs	HRL Laboratories, California
+Austria	A00594	A06333	CTBTO	Comprehensive Test-Ban Treaty Organization, Austria
+USA	A00812	A06322	HRL Labs	HRL Laboratories, California
+Finland	A01350	A06362	Turku Bios Ctr	Turku Bioscience Center, Finland
+Norway	A01813	A06323	Buskerud U	Buskerud University College, Norway
+Norway	A01813	A06324	Vestfold U	Vestfold University College, Norway
+Norway	A01813	A06325	Telemark U	Telemark University College, Norway
+France	A02608	A06364	LPENS	Laboratoire Pierre Aigrain, France
+France	A02640	A06367	IUEM	Institut Universitaire Europeen de la Mer, France
+France	A02878	A06367	IUEM	Institut Universitaire Europeen de la Mer, France
+France	A02904	A06364	LPENS	Laboratoire Pierre Aigrain, France
+France	A02973	A06366	IMFL	Instituts de Mecanique des Fluides, Lille
+France	A02976	A06366	IMFL	Instituts de Mecanique des Fluides, Lille
+Czech Republic	A03775	A06349	GRCI	Academy of Sciences of the Czech Republic, Global Change Research Institute
+Czech Republic	A03775	A06350	NPI	Academy of Sciences of the Czech Republic, Nuclear Physics Institute
+France	A04163	A06364	LPENS	Laboratoire Pierre Aigrain, France
+France	A05230	A06370	ILM	Institut Lumiere Matiere de Lyon
+France	A05230	A06371	INL	Institut des Nanotechnologies de Lyon
+France	A05230	A06372	LASIM	Laboratoire de Spectrometrie Ionique et Moleculaire, Lyon
+Palestine	A06299	A06300	Dep Phy	An-Najah National University, Department of Physics, Palestine
+Russia		A06301	NARFU	Northern Arctic Federal University, Russia
+Russia		A06302	USPTU	Ufa State Petroleum Technological University, Russia
+Saudi Arabia		A06303	Jeddah U	Jeddah University, Saudi Arabia
+Singapore		A06304	SUTD	Singapore University of Technology and Design
+South Africa		A06305	Tshwane U Tech	Tshwane University of Technology, South Africa
+Taiwan		A06306	Natl U Kaohsiung	National University of Kaohsiung, Taiwan
+Tunisia		A06307	U Gabes	University of Gabes, Tunisia
+USA		A06308	Longwood U	Longwood University, Virginia
+USA		A06309	Rush U	Rush University, Illinois
+USA		A06310	St Xavier U	Saint Xavier University, Illinois
+USA		A06311	Seattle Pac U	Seattle Pacific University, Washington
+USA		A06312	McNeese St U	McNeese State University, Louisiana
+Uzbekistan		A06313	TIIAME	Tashkent Institute of Irrigation and Agricultural Mechanization Engineers, Uzbekistan
+Uzbekistan		A06314	TUIT	Tashkent University of Information Technology, Uzbekistan
+Uzbekistan		A06315	TDTU	Tashkent State Technical University, Uzbekistan
+Uzbekistan		A06316	TSAU	Tashkent State Agrarian University, Uzbekistan
+USA		A06317	RMD	Radiation Monitoring Devices Inc., Massachusetts
+USA		A06318	Brewer Sci	Brewer Science Inc., Missouri
+USA		A06319	Spectral Sci	Spectral Sciences Inc., Massachusetts
+USA		A06320	RSSI	Remote Sensing Systems Inc., California
+USA		A06321	NYCB RTC	NYCB Real-Time Computing Inc., New York
+Algeria		A06331	COMENA	Commissariat a l'Energie Atomique, Algeria
+Algeria		A06332	U M'Sila	Universite de M'Sila, Algeria
+Austria		A06334	IIASA	International Institute for Applied Systems Analysis, Austria
+Bermuda		A06335	BIOS	Bermuda Institute of Ocean Sciences, Bermuda
+Botswana		A06336	Botswana Geo Inst	Botswana Geoscience Institute, Botswana
+Canada		A06337	D-Wave Sys	D-Wave Systems, Inc, Canada
+China		A06338	CNPC	China National Petroleum Corporation
+China	A06338	A06339	PetroChina	CNPC, PetroChina
+China		A06340	BIPT	Beijing Institute of Petrochemical Technology, China
+China		A06341	Sinopec	China Petroleum & Chemical Corporation, China
+China		A06342	Shanghai Mar U	Shanghai Maritime University, China
+China		A06343	Huzhou U	Huzhou University, China
+China		A06344	Shaoxing U	Shaoxing University, China
+China		A06345	Xijing U	Xijing University, China
+China		A06346	Minjiang U	Minjiang University, China
+Czech Republic		A06347	U S Bohemia	University of South Bohemia, Czech Republic
+Czech Republic		A06348	U Ostrava	University of Ostrava, Czech Republic
+Czech Republic		A06351	UJV Rez	Nuclear Research Institute, Czech Republic
+Czech Republic		A06352	ELI Beamlines	Extreme Light Infrastructure Beamlines, Czech Republic
+Ecuador		A06353	UTPL	Universidad Tecnica Particular de Lojam, Ecuador
+Ecuador		A06354	U Cuenca	Universidad de Cuenca, Ecuador
+Ecuador		A06355	ESPE	Escuela Politecnica del Ejercito, Ecuador
+Ecuador		A06356	ESPL	Escuela Superior Politecnica del Litoral, Ecuador
+Egypt		A06357	Damietta U	Damietta University, Egypt
+Egypt		A06358	Kafrelsheikh U	Kafrelsheikh University, Egypt
+Egypt		A06359	Mil Tech Coll	Military Technical College, Egypt
+El Salvador		A06360	U El Salvador	Universidad de El Salvador
+El Salvador		A06361	MARN	Ministry of Environment and Natural Resources, El Salvador
+Finland		A06363	Folkhalsan	Folkhalsan Research Center, Finland
+France		A06368	U Tech Troyes	Universite de Technologie de Troyes, France
+France		A06373	INERIS	Institut National de l'Environnement Industriel et des Risques, France	
+France		A06374	Merc Oc	Mercator Ocean, France
+Germany		A06375	Hoch Worms	Hochschule Worms, Germany
+Germany		A06376	ZTT Worms	Center for Technology and Transfer, Worms, Germany
+Haiti		A06377	Bur Mines Ener Haiti	Bureau des Mines et de l'Energie, Haiti
+Haiti		A06378	UEH Haiti	State University of Haiti
+Hungary		A06379	ELI ALPS	Extreme Light Infrastructure ALPS, Hungary
+India		A06380	Bharathidasan U	Bharathidasan University, India
+India	A06380	A06381	Ctr Nonlin Dyn	Bharathidasan University, Center for Nonlinear Dynamics, India
+India		A06382	Acharya Nagarjuna U	Acharya Nagarjuna University, India
+India		A06383	Thapar U	Thapar University, India
+India		A06384	Alagappa U	Alagappa University, India
+India		A06385	Marathwada U	Marathwada University, India
+India		A06386	SRM U	SRM University, India
+India		A06387	Kannur U	Kannur University, India
+India		A06388	Maharishi Dayanand U	Maharishi Dayanand University, India
+India		A06389	Amrita U	Amrita University, India
+India		A06390	SSNCE	SSN College of Engineering, India
+India		A06391	JUIT	Jaypee University of Information Technology, India
+India		A06392	JiIT	Jaypee Institute of Information Technology, India
+India		A06393	Amity U	Amity University, India
+India		A06394	BAIT	Bannari Amman Institute of Technology, India
+India		A06395	Chitkara U	Chitkara University, India
+India		A06396	Gulbarga U	Gulbarga University, India
+India		A06397	HBTU	Harcourt Butler Technical University, India
+India		A06398	Kuvempu U	Kuvempu University, India
+India		A06399	Kakatiya U	Kakatiya University, India
+Australia	A00025	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00172	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00339	A06463	CLEX	Centre of Excellence for Climate Extremes
+Australia	A00339	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00339	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00361	A06463	CLEX	Centre of Excellence for Climate Extremes
+Australia	A00361	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00361	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00409	A06463	CLEX	Centre of Excellence for Climate Extremes
+Australia	A00409	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00409	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00446	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00446	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00471	A06475	CWI	Centrum Wiskunde & Informatica, Netherlands
+Australia	A00650	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A00650	A06495	OzGrav	Centre of Excellence in Gravitational Wave Discovery
+Australia	A00661	A06463	CLEX	Centre of Excellence for Climate Extremes
+Australia	A00732	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A01302	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Australia	A01305	A06463	CLEX	Centre of Excellence for Climate Extremes
+Australia	A01305	A06494	ASTRO 3D	Centre of Excellence for All Sky Astrophysics in 3D
+Oman	A01584	A06419	GUTech	German University of Technology, Oman
+USA	A03628	A06468	EAO	East Asian Observatory, Hawaii
+USA	A03857	A06468	EAO	East Asian Observatory, Hawaii
+USA	A04814	A06468	EAO	East Asian Observatory, Hawaii
+Australia	A04927	A06463	CLEX	Centre of Excellence for Climate Extremes
+USA	A05164	A06468	EAO	East Asian Observatory, Hawaii
+USA	A05812	A06491	CCA	Center for Computational Astrophysics, Flatiron Institute, New York
+USA	A05812	A06492	CCQ	Center for Computational Quantum Physics, Flatiron Institute, New York
+USA	A05812	A06493	CCM	Center for Computational Mathematics, Flatiron Institute, New York
+India		A06400	SASTRA U	SASTRA University, India
+India		A06401	BSIP	Birbal Sahni Institute of Palaeosciences, India
+India		A06402	UGC-DAE CSR	UGC-DAE Consortium for Scientific Research, India
+India		A06403	MOES	Ministry of Earth Science, India
+India	A06403	A03302	India Met Dep	India Meteorological Department, Delhi, India
+India	A06403	A04908	IITM	Indian Institute of Tropical Meteorology, Pune
+India	A06403	A06404	NCMRWF	National Center for Medium Range Weather Forecasting, India
+India		A06405	NIT Agartala	National Institute of Technology Agartala, India
+India		A06406	NIT Durgapur	National Institute of Technology Durgapur, India
+India		A06407	NIT Warangal	National Institute of Technology Warangal, India
+India		A06408	NIT Calicut	National Institute of Technology Calicut, India
+India		A06409	NIT Silchar	National Institute of Technology Silchar, India
+India		A06410	NIT Surat	National Institute of Technology Surat, India
+India		A06411	NIT Nagpur	National Institute of Technology Nagpur, India
+Israel		A06412	SemiCon Dev	SemiConductor Devices, Israel
+Italy		A06413	U Foggia	University of Foggia, Italy
+Japan		A06414	Tok Ohka Kogyo	Tokyo Ohka Kogyo, Japan
+Madagascar		A06415	U Antananarivo	University of Antananarivo, Madagascar
+Madagascar		A06416	INSTN	Institut National des Sciences et Techniques Nucleaires, Madagascar
+Oman		A06417	Dhofar U	Dhofar University, Oman
+Oman		A06418	Sohar U	Sohar University, Oman
+Oman		A06420	HCT Oman	Higher College of Technology, Oman
+Oman		A06421	NUST Oman	National University of Science and Technology, Oman
+Oman		A06422	Al-Zahra Coll	Al-Zahra College, Oman
+Pakistan		A06423	Gomal U	Gomal University, Pakistan
+Peru		A06424	IMARPE	Instituto del Mar del Peru
+Romania		A06425	Const Mar U	Constanta Maritime University, Romania
+Romania		A06426	ELI NP	Extreme Light Infrastructure Nuclear Physics, Romania
+Russia		A06427	RQC	Russian Quantum Center, Skolkovo, Russia
+Russia		A06428	BSTU	Baltic State Technical University, Russia
+Russia		A06429	USATU	Ufa State Aviation Technical University, Russia
+Tatarstan		A06430	Innopolis U	Innopolis University, Tatarstan
+Russia		A06431	HSE Moscow	National Research University Higher School of Economics, Moscow, Russia
+Taiwan		A06432	UMC Taiwan	United Microelectronics Corporation, Taiwan
+Taiwan		A06433	Macronix	Macronix International Corporation, Taiwan
+Taiwan		A06434	Taipei Med U	Taipei Medical University, Taiwan
+Taiwan		A06435	Kaohsiung Med U	Kaohsiung Medical University, Taiwan
+Taiwan		A06436	Yuan Ze U	Yuan Ze University, Taiwan
+Taiwan		A06437	I-Shou U	I-Shou University, Taiwan
+Taiwan		A06438	Tunghai U	Tunghai University, Taiwan
+Taiwan		A06439	Natl Kaohsiung Norm U	National Kaohsiung Normal University, Taiwan
+Taiwan		A06440	NKFUST	National Kaohsiung First University of Science and Technology, Taiwan
+Taiwan		A06441	NDU Taiwan	National Defense University, Taiwan
+Taiwan	A06441	A06442	CCIT	National Defense University, Chung Cheng Institute of Technology, Taiwan	
+Thailand		A06443	NPRU	Nakhon Pathom Rajabhat University, Thailand
+Thailand	A06443	A06444	CEGM	Centre of Excellence in Glass Technology and Materials Science
+Thailand		A06445	Asian Inst Tech	Asian Institute of Technology, Thailand
+Thailand		A06446	Silpakorn U	Silpakorn University, Thailand
+Thailand		A06447	Srinakharinwirot U	Srinakharinwirot University, Thailand
+Thailand		A06448	SLRI	Synchrotron Light Research Institute, Thailand
+Thailand		A06449	Walailak U	Walailak University, Thailand
+Thailand		A06450	Mahasarakham U	Mahasarakham University, Thailand
+Thailand		A06451	NSTDA	National Science and Technology Development Agency, Thailand
+Thailand		A06452	Burapha U	Burapha University, Thailand
+Thailand		A06453	TINT	Thailand Institute of Nuclear Technology, Thailand
+UK		A06454	Def Ac UK	Defence Academy of the United Kingdom
+USA		A06455	IRIS	Incorporated Research Institutions for Seismology, Washington DC
+USA		A06456	BIDMC	Beth Israel Deaconess Medical Center, Massachusetts
+USA		A06457	Beloit Coll	Beloit College, Wisconsin
+USA		A06458	Hendrix Coll	Hendrix College, Arkansas
+USA		A06459	NNMC	Northern New Mexico College, New Mexico
+USA		A06460	Westmont Coll	Westmont College, California
+Uzbekistan		A06461	TSTU	Tashkent State Transport University, Uzbekistan
+Angola		A06462	U Agostinho Neto	Universidade Agostinho Neto, Angola
+Benin		A06464	IMSP Benin	Institut de Mathematiques et de Sciences Physiques, Benin
+Brazil		A06465	UFTM	Federal University of Triangulo Mineiro, Brazil
+China		A06466	NCUT	North China University of Technology, China
+China		A06467	BTBU	Beijing Technology and Business University, China
+India		A06469	DAE India	Department of Atomic Energy, India
+India	A06469	A03343	BARC	Bhabha Atomic Research Centre, India
+India	A06469	A03344	HBNI	Homi Bhabha National Institute of Atomic Research, India
+India	A06469	A03372	IGCAR	Indira Gandhi Centre for Atomic Research, India
+Iran		A06470	U Maragheh	University of Maragheh, Iran
+Italy		A06471	ALTEC	Aerospace Logistics Technology Engineering Company, Italy
+Japan		A06472	KDDI	Kokusai Denshin Denwa IDO, Japan
+Japan		A06473	HOYA	HOYA Corporation, Japan
+Nepal		A06474	CMPRC	Condensed Matter Physics Research Center, Nepal
+Poland		A06476	Bialystok U Tech	Bialystok University of Technology, Poland
+Poland		A06477	Rzeszow U Tech	Rzeszow University of Technology, Poland
+Russia		A06478	IRGUPS	Irkutsk State Transport University, Russia
+Russia		A06479	KALMSU	Kalmyk State University, Russia
+Russia		A06480	Togliatti St U	Togliatti State University, Russia
+Russia		A06481	TVSTU	Tver State Technical University, Russia
+Russia		A06482	ULSTU	Ulyanovsk State Technical University, Russia
+Russia		A06483	Lavochkin NPO	Lavochkin Research and Production Association, Russia
+Serbia		A06484	U Pristina	University of Pristina, Serbia
+Serbia		A06485	SANU	Serbian Academy of Sciences and Arts, Serbia
+Serbia		A06486	Ast Obs Belgrade	Astronomical Observatory of Belgrade, Serbia
+Ukraine		A06487	NAU	National Aviation University, Ukraine
+USA		A06488	FMU	Francis Marion University, South Carolina
+USA		A06489	SDSTA	South Dakota Science and Technology Authority
+USA	A06489	A06490	SURF	Sanford Underground Research Facility, South Dakota
+Brazil		A06496	CUFEI	Centro Universitario da FEI, Brazil
+Canada		A06497	MRU	Mount Royal University, Canada
+China		A06498	IMUST	Inner Mongolia University of Science and Technology, China
+China		A06499	NE Petro U	Northeast Petroleum University, China
+UK	A00316	A06590	KIC	Kavli Institute for Cosmology, UK
+USA	A01085	A06599	KIPAC	Kavli Institute for Particle Astrophysics and Cosmology, California
+Germany	A01553	A06560	MPI Poly Res	Max Planck Institute for Polymer Research, Mainz
+Germany	A01553	A06561	MPI Str Dyn Matt	Max Planck Institute for the Structure and Dynamics of Matter, Hamburg
+Germany	A01553	A06562	MPI Chem En Conv	Max Planck Institute for Chemical Energy Conversion, Mulheim an der Ruhr
+Italy	A01668	A06540	Dep Ear Sci	University of Florence, Department of Earth Sciences
+China	A01849	A06557	AQL	Alibaba Quantum Laboratory, China
+Japan	A02209	A06569	ABC Japan	Astrobiology Center, Japan
+Poland	A03807	A06579	IHPP	Institute of High Pressure Physics, Warsaw
+Poland	A03807	A06580	IPO	Institute of Industrial Organic Chemistry, Warsaw
+Romania	A04068	A06585	NIMP	National Institute of Materials Physics, Romania
+Armenia	A04950	A06552	CANDLE SRI	CANDLE Synchrotron Research Institute, Armenia
+China		A06500	Shaanxi U Sci Tech	Shaanxi University of Science and Technology, China
+China		A06501	Shantou U	Shantou University, China
+China		A06502	XAUAT	Xi'an University of Architecture and Technology, China
+China		A06503	Anqing Norm U	Anqing Normal University, China
+China		A06505	Chongqing Norm U	Chongqing Normal University, China
+China		A06506	Gannan Norm U	Gannan Normal University, China
+China		A06507	Guangdong Poly Norm U	Guangdong Polytechnic Normal University, China
+China		A06508	Hefei Norm U	Hefei Normal University, China
+China		A06509	Hengyang Norm U	Hengyang Normal University, China
+China		A06511	Yangtze Norm U	Yangtze Normal University, China
+China		A06512	Zhoukou Norm U	Zhoukou Normal University, China
+China		A06513	Fuyang Norm U	Fuyang Normal University, China
+China		A06514	Hainan Norm U	Hainan Normal University, China
+China		A06515	Huainan Norm U	Huainan Normal University, China
+China		A06516	Huanggang Norm U	Huanggang Normal University, China
+China		A06517	Jilin Eng Norm U	Jilin Engineering Normal University, China
+China		A06518	Leshan Norm U	Leshan Normal University, China
+China		A06519	Lingnan Norm U	Lingnan Normal University, China
+China		A06520	Qinghai Norm U	Qinghai Normal University, China
+China		A06521	Qujing Norm U	Qujing Normal University, China
+China		A06522	Shangrao Norm U	Shangrao Normal University, China
+China		A06523	NW Minzu U	Northwest Minzu University, China
+China		A06524	N Minzu U	North Minzu University, China
+China		A06525	Yunnan Minzu U	Yunnan Minzu University, China
+China		A06526	SW Minzu U	Southwest Minzu University, China
+China		A06527	Shandong Jiaotong U	Shandong Jiaotong University, China
+India		A06528	IASST	Institute of Advanced Study in Science and Technology, India
+Indonesia		A06529	U Mataram	Universitas Mataram, Indonesia
+Indonesia		A06530	U Negeri Medan	Universitas Negeri Medan, Indonesia
+Indonesia		A06531	UIN Raden Intan	Universitas Islam Negeri Raden Intan Lampung, Indonesia
+Indonesia		A06532	U Trisakti	Universitas Trisakti, Indonesia
+Iran		A06533	Babol Noshirvani U Tech	Babol Noshirvani University of Technology, Iran
+Iran		A06534	Lorestan U	Lorestan University, Iran
+Iran		A06535	Malayer U	Malayer University, Iran
+Iran		A06536	Shahrekord U	Shahrekord University, Iran
+Iran		A06537	U Sistan Baluchestan	University of Sistan and Baluchestan, Iran
+Iran		A06538	Urmia U Tech	Urmia University of Technology, Iran
+Iran		A06539	U Zabol	University of Zabol, Iran
+Malaysia		A06541	U Malaysia Kelantan	Universiti Malaysia Kelantan, Malaysia
+Russia		A06542	FESTU	Far Eastern State Transport University, Russia
+Russia		A06543	Kuban State Agr U	Kuban State Agrarian University, Russia
+Russia		A06544	Rostov St Trans U	Rostov State Transport University, Russia
+Russia		A06545	Tomsk St U Arch Bldng	Tomsk State University of Architecture and Building, Russia
+Russia		A06546	Volgograd St Agr U	Volgograd State Agrarian University, Russia
+South Korea		A06547	Hongik U	Hongik University, South Korea
+South Korea		A06548	Mokpo Natl Mar U	Mokpo National Maritime University, South Korea
+Ukraine		A06549	Kryvyi Rih St Ped U	Kryvyi Rih State Pedagogical University, Ukraine
+Ukraine		A06550	Sumy St U	Sumy State University, Ukraine
+USA		A06551	Gonzaga U	Gonzaga University, Washington
+Chile		A06553	UBO Chile	Universidad Bernardo O'Higgins, Chile
+Chile		A06554	U Andes Chile	University of the Andes, Chile
+China		A06555	Jishou U	Jishou University, China
+China		A06556	Alibaba	Alibaba Group, China
+China	A06556	A06557	AQL	Alibaba Quantum Laboratory, China
+Swaziland		A06558	U Eswatini	University of Eswatini, Swaziland
+Germany		A06559	Bauhaus U	Bauhaus University, Germany
+India		A06563	Bhavnagar U	Bhavnagar University, India
+India		A06564	Cen U Tamil Nadu	Central University of Tamil Nadu, India
+India		A06565	Cen U Himachal Pradesh	Central University of Himachal Pradesh, India
+India		A06566	MSCBD U	Maharaja Sriram Chandra Bhanja Deo University, India
+India		A06567	Manonmaniam Sundaranar U	Manonmaniam Sundaranar University, India
+India		A06568	Shiv Nadar U	Shiv Nadar University, India
+Japan		A06570	Juntendo U	Juntendo University, Japan
+Jordan		A06571	Isra U	Isra University, Jordan
+Korea		A06572	Andong Natl U	Andong Natl University, Korea
+Korea		A06573	Dong-A U	Dong-A University, Korea
+Korea		A06574	Hallym U	Hallym University, Korea
+Korea		A06575	Hankuk U Frgn Stdy	Hankuk University of Foreign Studies, Korea
+Korea		A06576	Konyang U	Konyang University, Korea
+Korea		A06577	SookMyung Wmns U	SookMyung Womens University, Korea
+Kuwait		A06578	Amer U Mid E	American University of the Middle East, Kuwait
+Poland		A06581	Warsaw Inst Av	Warsaw Institute of Aviation, Poland
+Romania		A06582	ROSA	Romanian Space Agency, Romania
+Romania	A06582	A06583	INOE	National Institute of Research and Development for Optoelectronics, Romania
+Romania		A06584	IMT Bucharest	National Institute for Research and Development in Microtechnology, Romania
+Sweden		A06586	ESS	European Spallation Source, Sweden
+Denmark	A06586	A06587	Copenhagen	European Spallation Source, Denmark
+Taiwan		A06588	Natl Pingtung U	National Pingtung University, Taiwan
+Taiwan		A06589	Natl Pingtung U Sci Tech	National Pingtung University of Science and Technology, Taiwan
+USA		A06591	St. Bonaventure U	St. Bonaventure University, New York
+USA		A06592	Minot St U	Minot State University, North Dakota
+USA		A06593	LCSS	Lewis-Clark State College, Idaho
+USA		A06594	Vall Cty St U	Valley City State University, North Dakota
+USA		A06595	Sthrn Utah U	Southern Utah University, Utah
+USA		A06596	Radford U	Radford University, Virginia
+USA		A06597	U Mary Wash	University of Mary Washington, Virginia
+USA		A06598	Liberty U	Liberty University, Virginia
+UK	A06600	A06590	KIC	Kavli Institute for Cosmology, UK
+USA	A06600	A06599	KIPAC	Kavli Institute for Particle Astrophysics and Cosmology, California
+USA	A00076	A06602	FCAD	Five College Astronomy Department
+USA	A00077	A06602	FCAD	Five College Astronomy Department
+USA	A00230	A06602	FCAD	Five College Astronomy Department
+USA	A00996	A06602	FCAD	Five College Astronony Department
+USA	A01237	A06602	FCAD	Five College Astronomy Department
+Italy	A01725	A06612	INO Florence	CNR, Institute of Applied Optics, Florence
+China	A01874	A06622	CUMTB	China University of Mining and Technology, Beijing
+Moldova	A04747	A06617	IAP Moldova	Institute of Applied Physics, Moldova
+USA		A06600	Kavli Fnd	Kavli Foundation, California
+China	A06600	A06601	KITS	Kavli Institute for Theoretical Sciences, China
+USA	A06600	A11012	Kavli Inst	MIT, Center for Space Research/Kavli Institute
+USA	A06600	A11115	KICP	University of Chicago, Kavli Institute for Cosmological Physics
+USA	A06600	A11565	KIAA	Kavli Institute for Astronomy and Astrophysics
+Japan	A06600	A11617	IPMU	University of Tokyo, Kavli Institute for the Physics and Mathematics of the Universe
+USA	A06600	A13109	KITP	University of California, Santa Barbara, Kavli Institute for Theoretical Physics
+Spain		A06603	IAC	Astrophysical Institute of the Canaries, Spain
+Belgium		A06604	VVS	Vereniging voor Sterrenkunde, Belgium
+Brunei-Darussalam		A06605	U Teknologi Brunei	Universiti Teknologi Brunei, Brunei-Darussalam
+China		A06606	Changchun U Tech	Changchun University of Technology, China
+China		A06607	Xi'an Shiyou U	Xi'an Shiyou University, China
+China		A06608	Zhejiang U Sci Tech	Zhejiang University of Science and Technology, China
+China		A06609	Zhejiang U Water Res Elec Pwr	Zhejiang University of Water Resources and Electric Power, China
+India		A06610	Cen U Rajasthan	Central University of Rajasthan, India
+Iran		A06611	U Sci Tech Mazandaran	University of Science and Technology of Mazandaran, Iran
+Lebanon		A06614	Beirut Arab U	Beirut Arab University, Lebanon
+Malaysia		A06615	U Utara Malaysia	Universiti Utara Malaysia, Malaysia
+Moldova		A06616	TUM Moldova	Technical University of Moldova, Moldova
+Moldova	A06616	A06617	IAP Moldova	Institute of Applied Physics, Moldova
+South Korea		A06618	Kyonggi U	Kyonggi University, South Korea
+USA		A06619	Kean U	Kean University, New Jersey
+USA		A06620	Whittier Coll	Whittier College, California
+USA		A06621	MIRA	Monterey Institute for Research in Astronomy, California
