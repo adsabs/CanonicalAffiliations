@@ -1,3 +1,4 @@
+Parent	Child	Abbrev	Canonical Name
 0	A11118	Adler	Adler Planetarium, Illinois
 0	A11135	ASTRA	Atmospheric & Space Technology Research Associates (ASTRA)
 0	A11151	Palmer Div	Palmer Divide Observatory, Colorado
@@ -4884,7 +4885,7 @@ A03990	A11145	Hi Alt Obs	National Center for Atmospheric Research, High Altitude
 0	A03997	ESO	European Southern Observatory, Germany
 A03997	A03998	Chile	European Southern Observatory, Chile
 A03997	A11480	STECF	ESO, Space Telescope European Coordinating Facility
-0	A03999	TLS  Thuringer Landessternwarte Tautenburg, Germany
+0	A03999	TLS	Thuringer Landessternwarte Tautenburg, Germany
 A03999	A11507	Sonneberg Obs	Sonneberg Observatory
 0	A04000	CIEMAT	Centro de Investigaciones Energeticas Medioambientales y Tecnologicas, Spain
 A04000	A04001	PSA	Plataforma Solar de Almeria, Tabernas
