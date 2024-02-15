@@ -4468,6 +4468,7 @@ USA		A03670	NRL	U.S. Department of the Navy, Naval Research Laboratory, Washingt
 USA	A03670	A11048	USNO	U.S. Naval Observatory
 USA	A03670	A11049	Hulburt Ctr Sp Res	E.O. Hulburt Center for Space Research, NRL
 USA		A03671	STScI	Space Telescope Science Institute, Baltimore, Maryland
+USA	A03671	A13114	ESA Office	Space Telescope Science Institute, ESA Office, Baltimore, Maryland
 USA		A03672	NRAO	National Radio Astronomy Observatory, Virginia
 USA	A03672	A03673	Mauna Kea	National Radio Astronomy Observatory, Mauna Kea
 Chile	A03672	A03674	ALMA Chile	ALMA Science Center, Chile
@@ -5196,6 +5197,7 @@ Barbados		A04323	UWI	University of the West Indies System
 Jamaica	A04323	A06326	UWI Jamaica	University of the West Indies, Jamaica
 Barbados	A04323	A06327	UWI Barbados	University of the West Indies at Cave Hill, Barbados
 Trinidad	A04323	A06328	UWI St Augustine	University of the West Indies at Saint Augustine, Trinidad &amp; Tobago
+Antigua Barbuda	A04323	A06329	UWI Antigua	University of the West Indies, Antigua &amp; Barbuda
 Bahamas	A04323	A06330	UWI Bahamas	University of the West Indies Open Campus, Bahamas
 Kuwait		A04324	KISR	Kuwait Institute for Scientific Research
 Argentina		A04325	CONICET Arg	National Scientific and Technical Research Council, Argentina
@@ -5539,6 +5541,7 @@ Spain	A04638	A11321	MDSCC	Madrid Deep Space Communication
 Spain	A04638	A11324	LAEFF	Laboratory for Space Astrophysics and Theoretical Physics
 Italy	A04638	A11376	ESRIN	European Space Research Institute
 Italy	A04638	A11397	ASDC	ASI Science Data Center
+USA	A04638	A13114	ESA Office	Space Telescope Science Institute, ESA Office, Baltimore, Maryland
 Greece		A04644	Hellenic Open U	Hellenic Open University, Greece
 Greece		A04645	U Athens	National and Kapodistrian University of Athens, Greece
 Greece	A04645	A04646	Dep Phy	University of Athens, Department of Physics
