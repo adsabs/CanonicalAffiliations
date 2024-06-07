@@ -189,7 +189,7 @@ A00027	A00030	Dep Phy	University of Maryland, Department of Physics
 A00027	A00031	Dep Ast	University of Maryland, Department of Astronomy
 A00027	A00032	IPST	Institute for Physical Science and Technology, UMD College Park
 A00027	A00036	JQI	Joint Quantum Institute, Maryland
-A00027	A05873	LPS	Laboratory for Physical Sciences, Maryland
+A00027	A05873	LPS UMD	Laboratory for Physical Sciences, Maryland
 A00027	A11045	CRESST	Center for Research and Exploration in Space Science & Technology
 A00027	A13058	CICS	Cooperative Institute for Climate and Satellites
 A00027	A13059	ESSIC	Earth System Science Interdisciplinary Center
@@ -1053,7 +1053,6 @@ A00674	A11138	Dep Phy Ast	Rice University, Department of Physics and Astronomy
 A00674	A11139	Dep Ear Sci	Rice University, Department of Earth Science
 0	A00675	TX Sthrn U	Texas Southern University
 0	A00676	NASA	NASA HQ
-A00676	A00948	GISS	Goddard Institute for Space Studies
 A00676	A00677	NSSTC	NASA National Space Science and Technology Center
 A00676	A00678	SLPSRA	NASA Space Life and Physical Sciences Research and Applications Laboratory
 0	A00680	NASA JSC	NASA Johnson Space Center
@@ -1716,6 +1715,7 @@ A01185	A01195	Inst Phy Sci	UNAM, Institute of Physical Sciences
 A01185	A01196	Inst Phy	UNAM, Institute of Physics
 A01185	A01197	Inst Nuc Sci	UNAM, Institute of Nuclear Sciences
 A01185	A01198	Inst Mar Sci	UNAM, Institute of Marine Sciences and Limnology
+A01185	A06645	Inst Chem	UNAM, Institute of Chemistry
 0	A01199	Intel	Intel Corporation
 0	A01200	NOAA	National Oceanic and Atmospheric Administration, Washington
 A01200	A01201	NCEI	National Centers for Environmental Information
@@ -2332,7 +2332,6 @@ A01677	A01678	Dep Phy	University of L'Aquila, Department of Physics
 A01679	A01681	Dep Phy	University of Milan, Department of Physics
 A01679	A01683	Dep Ear Sci	University of Milan, Department of Earth Sciences
 A01679	A01727	CNR Milan	Italian National Research Council, Milan
-A01679	A03975	Ast Obs Brera	Astronomical Observatory of Brera, Milan
 A01679	A11383	IASF Milan	Institute for Cosmic Physics, Milan
 0	A01684	U Milan-Bicocca	University of Milan-Bicocca, Italy
 A01684	A01685	Dep Phy	University of Milan-Bicocca, Department of Physics
@@ -3014,7 +3013,7 @@ A02230	A11711	Dep Phy	University of Chile, Department of Physics
 0	A02240	U IL Springfield	University of Illinois, Springfield
 0	A02241	Sthrn U A&M Coll	Southern University and Agricultural and Mechanical College, Baton Rouge
 0	A02242	UMBC	University of Maryland, Baltimore County
-A02242	A05873	LPS	Laboratory for Physical Sciences, Maryland
+A02242	A05873	LPS UMD	Laboratory for Physical Sciences, Maryland
 A02242	A11044	JCA	Joint Center for Astrophysics, UMD Baltimore
 A02242	A11045	CRESST	Center for Research and Exploration in Space Science & Technology
 A02242	A11046	JCET	Joint Center for Earth Systems Technology, UMD, Baltimore
@@ -3516,7 +3515,7 @@ A02653	A02888	OPGC	Observatoire de Physique du Globe de Clermont-Ferrand
 0	A02660	U Littoral Cote Opal	Universite du Littoral Cote d'Opal, France
 A02660	A02661	LPCA	Universite du Littoral Cote d'Opal, Laboratoire de PhysicoChimie de l'Atmosphere
 0	A02662	U Evry	Universite d'Evry, France
-0	A02663	INP Grenoble	Institut Polytechnique de Grenoble, France
+0	A02663	Grenoble INP	Institut Polytechnique de Grenoble, France
 A02663	A02666	ENSPG	Ecole National Superieure de Physique, Grenoble
 A02663	A02822	LPSC	Laboratoire de Physique Subatomique et de Cosmologie
 A02663	A02854	Inst Neel	Institute Neel, Grenoble
@@ -3695,6 +3694,7 @@ A02940	A02969	EPOC	Environnements et Paleoenvironnements Oceaniques, Talence
 0	A02943	U Perpignan	Universite de Perpignan, France
 0	A02944	U Bordeaux IV	Universite de Bordeaux IV, Pessac, France
 A02944	A02969	EPOC	Environnements et Paleoenvironnements Oceaniques, Talence
+A02944	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
 0	A02946	U Poitiers	University of Poitiers, France
 A02946	A02947	LCME	Laboratoire de Chimie et de Microbiologie de l'Eau
 0	A02948	U Reims	Universite de Reims, France
@@ -3721,15 +3721,15 @@ A02962	A02967	CRPP	Centre de Recherche Paul Pascal, Pessac
 A02962	A02968	OASU	Observatoire Aquitain des Sciences de l'Universe, Bordeaux
 A02962	A02969	EPOC	Environnements et Paleoenvironnements Oceaniques, Talence
 0	A02970	INSA Toulouse	Institut National des Sciences Appliquees de Toulouse, France
-A02970	A02980	LPS	Laboratoire de Physique des Solides, Toulouse
+A02970	A02980	LPS-T	Laboratoire de Physique des Solides, Toulouse
 A02970	A05241	LNCMI-T	National Laboratory of Intense Magnetic Fields, Toulouse
-0	A02973	INP Toulouse	Institut National Polytechnique de Toulouse, France
+0	A02973	Toulouse INP	Institut National Polytechnique de Toulouse, France
 A02973	A02987	IMFT	Institut de Mecanique des Fluides, Toulouse
 A02973	A06366	IMFL	Instituts de Mecanique des Fluides, Lille
 0	A02975	UT2J Jean Jaures	Universite de Toulouse Jean Jaures, France
 0	A02976	UPS Toulouse	Universite de Toulouse Paul Sabatier, France
 A02976	A02978	CESBIO	Centre d'Etudes Spatiales de la Biosphere, Toulouse
-A02976	A02980	LPS	Laboratoire de Physique des Solides, Toulouse
+A02976	A02980	LPS-T	Laboratoire de Physique des Solides, Toulouse
 A02976	A02981	Inst Math	Institut de Mathematiques de Toulouse
 A02976	A02984	LCPQ	Laboratoire de Chimie et Physique Quantique, Toulouse
 A02976	A02985	IRSAMC	Institut de Recherche sur les Systemes Atomiques et Moleculaires Complexes, Toulouse
@@ -3741,11 +3741,13 @@ A02976	A05218	Ctr Ocgy Marseille	Centre d'Oceanologie de Marseille
 A02976	A05241	LNCMI-T	National Laboratory of Intense Magnetic Fields, Toulouse
 A02976	A06179	Lab d'Aero	Laboratoire d'Aerologie
 A02976	A06366	IMFL	Instituts de Mecanique des Fluides, Lille
+A02976	A06641	L2IT	Laboratoire des 2 Infinis, Toulouse
 0	A02988	U Tours	Universite Francois Rabelais, Tours, France
 A02988	A02989	LMPT	Laboratoire de Mathematiques et Physique Theorique
 0	A02990	U Valenciennes	Universite de Valenciennes, France
 0	A02991	UVSQ	Universite Versailles Saint-Quentin-en-Yvelines, France
 A02991	A04169	LATMOS	Laboratoire Atmospheres Milieux Observations Spatiales
+A02991	A06640	GEMaC	Groupe d'Etude de la Matiere Condensee, Versailles
 A02991	A11256	CETP Obs St Maur	CETP, Observatoire de Saint Maur
 0	A02993	U Paris Nord XIII	Universite de Paris Nord XIII, France
 A02993	A02994	LSPM	Laboratoire des Sciences des Procedes et des Materiaux
@@ -4866,6 +4868,7 @@ A03985	A11162	KPNO	Kitt Peak Observatory, NOAO
 A03985	A11712	CTIO	Cerro Tololo Interamerican Observatory
 0	A03986	PSI AZ	Planetary Science Institute, Arizona
 0	A03987	GSFC	NASA Goddard Space Flight Center, Maryland
+A03987	A00948	GISS	Goddard Institute for Space Studies
 A03987	A11045	CRESST	Center for Research and Exploration in Space Science & Technology
 A03987	A11046	JCET	Joint Center for Earth Systems Technology, UMD, Baltimore
 A03987	A13048	Plan Geo	Goddard Space Flight Center, Planetary and Geophysics Divisions
@@ -7117,6 +7120,9 @@ A06163	A06164	LRI	Lerner Research Institute, Ohio
 A06178	A06197	IJCLab	Irene et Joliot Curie Laboratory
 A06178	A06198	C2N	Centre for Nanoscience and Nanotechnology
 A06178	A06199	LIDYL	Lasers, Interactions and Dynamics Laboratory
+A06178	A06638	LPS Saclay	Laboratoire de Physique des Solides, Paris-Saclay
+A06178	A06639	GEOPS	Laboratoire Geosciences Paris-Saclay, France
+A06178	A06640	GEMaC	Groupe d'Etude de la Matiere Condensee, Versailles
 0	A06180	Bruker US	Bruker Corporation, US
 A06180	A06181	Bruker DE	Bruker BioSpin, Germany
 A06180	A06182	Bruker UK	Bruker AXS, UK
@@ -7511,6 +7517,28 @@ A06616	A06617	IAP Moldova	Institute of Applied Physics, Moldova
 0	A06619	Kean U	Kean University, New Jersey
 0	A06620	Whittier Coll	Whittier College, California
 0	A06621	MIRA	Monterey Institute for Research in Astronomy, California
+0	A06623	NE For U	Northeast Forestry University, China
+0	A06624	BUCEA	Beijing University of Civil Engineering and Architecture, China
+0	A06625	Hainan U	Hainan University, China
+0	A06626	Henan Agr U	Henan Agricultural University, China
+0	A06627	Guangdong Oc U	Guangdong Ocean University, China
+0	A06628	Chongqing U Arts Sci	Chongqing University of Arts and Sciences, China
+0	A06629	N China U Sci Tech	North China University of Science and Technology
+0	A06630	Qingdao U Tech	Qingdao University of Technology, China
+0	A06631	Jiangsu U Sci Tech	Jiangsu University of Science and Technology, China
+0	A06632	Dongguan U Tech	Dongguan University of Technology, China
+0	A06633	Ningxia U	Ningxia University, China
+0	A06634	Shihezi U	Shihezi University, China
+0	A06635	Anhui Agr U	Anhui Agricultural University, China
+0	A06636	Angui Med U	Anhui Medical University, China
+0	A06637	Zhejiang Agr For U	Zhejiang Agriculture and Forestry University, China
+0	A06642	Punjab Agr U	Punjab Agricultural University, India
+0	A06643	Chandigarh U	Chandigarh University, India
+0	A06644	U Malaysia Terengganu	Universiti Malaysia Terengganu
+0	A06646	U Calabar	University of Calabar, Nigeria
+0	A06648	Bordeaux INP	Institut Polytechnique de Bordeaux, France
+A06648	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
+0	A06649	NE Agr U	Northeast Agricultural University, China
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
