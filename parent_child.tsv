@@ -108,7 +108,7 @@ Parent	Child	Abbrev	Canonical Name
 0	A11716	SPACE San Pedro	San Pedro de Atacama Celestial Explorations, Chile
 0	A11739	Armagh Obs	Armagh Observatory, Northern Ireland
 0	A11750	Can Ctr Rem Sen	Canadian Centre for Remote Sensing
-0	A11751	CERCA	Centre de Recherche en Calcul Applique
+0	A11751	CERCA	Centre de Recherche en Calcul Applique, Montreal, Canada
 0	A11752	SNOLAB	Sudbury Neutrino Laboratory, Canada
 0	A11756	Scot U Res React Ctr	Scottish Universities Research and Reactor Centre
 0	A11786	NIT Nagano	National Institute of Technology, Nagano College, Japan
@@ -121,9 +121,9 @@ Parent	Child	Abbrev	Canonical Name
 0	A13005	Swedish Sp	Swedish Space Corporation
 0	A13022	Uppsala Iono Obs	Uppsala Ionospheric Observatory, Sweden
 0	A13023	Icarus Res	Icarus Research Inc., Bethesda, Maryland
-0	A13024	GATS	GATS Inc.
+0	A13024	GATS	GATS Inc., United States
 0	A13025	JPRS	Joint Publications Research Institute, Virginia
-0	A13026	ASP	Astronomical Society of the Pacific
+0	A13026	ASP	Astronomical Society of the Pacific, United States
 0	A13027	MPDS	Materials Phases Data System, Villars, Switzerland
 0	A13028	GII	Geophysical Institute of Israel
 0	A13029	NILOP	National Institute of Lasers and Optronics, Islamabad, Pakistan
@@ -7010,7 +7010,7 @@ A06049	A06050	MSU-IIT	Mindanao State University, Iligan Institute of Technology,
 0	A06053	Geo Surv SI	Geological Survey of Slovenia
 0	A06054	KRI	Karst Research Institute, Slovenia
 0	A06055	BSMU	Bukovinian State Medical University, Ukraine
-0	A06056	Merck	Merck Sharp and Dohme, USA
+0	A06056	Merck	Merck Sharp and Dohme, United States
 0	A06057	Can Tho U	Can Tho University, Vietnam
 0	A06058	Duy Tan U	Duy Tan University, Vietnam
 0	A06059	Hue U	Hue University, Vietnam
