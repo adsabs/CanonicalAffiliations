@@ -1,4 +1,4 @@
-Country	[Aff_id_parent]	Aff_id_child	Inst	Affiliation
+Country	Parent	Child	Abbrev	Canonical Name
 USA		A11118	Adler	Adler Planetarium, Illinois
 USA		A11135	ASTRA	Atmospheric & Space Technology Research Associates (ASTRA)
 USA		A11151	Palmer Div	Palmer Divide Observatory, Colorado
