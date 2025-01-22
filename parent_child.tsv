@@ -62,7 +62,7 @@ Parent	Child	Abbrev	Canonical Name
 0	A11491	Max Born Inst	Max Born Institute for Nonlinear Optics, Berlin, Germany
 0	A11508	M Adrian Obs	Michael Adrian Observatory, Germany
 0	A11517	Geo Surv IR	Geological Survey of Iran
-0	A11518	ISRC Baghdad	Iranian Space Research Center, Baghdad, Iran
+0	A11518	ISRC Baghdad	Iraqi Space Research Center, Baghdad, Iraq
 0	A11519	Nepal Ast Soc	Nepal Astronomical Society
 0	A11521	PAGASA	Philippine Atmospheric Geophysical and Astronomical Services Administration
 0	A11524	CVGHM	Center for Volcanology and Geohazards, Indonesia
@@ -106,9 +106,9 @@ Parent	Child	Abbrev	Canonical Name
 0	A11700	Supernova	Supernova Ltd, British Virgin Islands
 0	A11709	Rosario Plan Ast Obs	Rosario Planetarium and Astronomical Observatory, Argentina
 0	A11716	SPACE San Pedro	San Pedro de Atacama Celestial Explorations, Chile
-0	A11739	Armagh Obs	Armagh Observatory, Ireland
+0	A11739	Armagh Obs	Armagh Observatory, Northern Ireland
 0	A11750	Can Ctr Rem Sen	Canadian Centre for Remote Sensing
-0	A11751	CERCA	Centre de Recherche en Calcul Applique
+0	A11751	CERCA	Centre de Recherche en Calcul Applique, Montreal, Canada
 0	A11752	SNOLAB	Sudbury Neutrino Laboratory, Canada
 0	A11756	Scot U Res React Ctr	Scottish Universities Research and Reactor Centre
 0	A11786	NIT Nagano	National Institute of Technology, Nagano College, Japan
@@ -121,9 +121,9 @@ Parent	Child	Abbrev	Canonical Name
 0	A13005	Swedish Sp	Swedish Space Corporation
 0	A13022	Uppsala Iono Obs	Uppsala Ionospheric Observatory, Sweden
 0	A13023	Icarus Res	Icarus Research Inc., Bethesda, Maryland
-0	A13024	GATS	GATS Inc.
+0	A13024	GATS	GATS Inc., United States
 0	A13025	JPRS	Joint Publications Research Institute, Virginia
-0	A13026	ASP	Astronomical Society of the Pacific
+0	A13026	ASP	Astronomical Society of the Pacific, United States
 0	A13027	MPDS	Materials Phases Data System, Villars, Switzerland
 0	A13028	GII	Geophysical Institute of Israel
 0	A13029	NILOP	National Institute of Lasers and Optronics, Islamabad, Pakistan
@@ -369,7 +369,7 @@ A00153	A01299	Ctr Ecol Hydro	Center for Ecology and Hydrology
 0	A00158	Mitre	Mitre Corporation
 0	A00159	AT&T	AT&T Inc.
 A00159	A02416	Bell Labs	Lucent Technologies, AT&T Bell Labs
-0	A00161	Queens U Belfast	Queens University Belfast, Ireland
+0	A00161	Queens U Belfast	Queens University Belfast, Northern Ireland
 A00161	A00162	Sch Math Phy	Queens University Belfast, School of Mathematics and Physics
 0	A00163	W WA U	Western Washington University
 0	A00164	MN St U	Minnesota State University System
@@ -692,7 +692,7 @@ A00399	A05874	MADRC	Massachusetts Alzheimer's Disease Research Center
 0	A00400	U Cincinnati	University of Cincinnati, Ohio
 A00400	A11801	Dep Phy	University of Cincinnati, Department of Physics
 0	A00401	Xavier U Ohio	Xavier University, Ohio
-0	A00402	Claremont Coll	Claremont Colleges Consortium
+0	A00402	Claremont Coll	Claremont Colleges Consortium, California
 A00402	A00403	Pomona Coll	Pomona College
 A00402	A00404	Claremont McKenna	Claremont McKenna College
 A00402	A00405	Harvey Mudd Coll	Harvey Mudd College
@@ -719,7 +719,7 @@ A00414	A11089	Dep Ast	Case Western Reserve University, Department of Astronomy
 0	A00417	Hamilton Coll	Hamilton College, New York
 0	A00418	U Essex	University of Essex, UK
 0	A00419	St Michaels Coll	Saint Michaels College, Vermont
-0	A00420	U Ulster	University of Ulster, Ireland
+0	A00420	U Ulster	University of Ulster, Northern Ireland
 0	A00421	Colo Coll	Colorado College
 0	A00422	U MO	University of Missouri
 A00422	A00423	KC	University of Missouri, Kansas City
@@ -825,7 +825,7 @@ A00498	A00500	Dep Phy	Durham University, Department of Physics
 A00501	A00502	Pratt Sch Eng	Duke University, Pratt School of Engineering
 A00501	A00503	Div Ear Oc Sci	Duke University, Division of Earth and Ocean Sciences
 A00501	A00504	Dep Phy	Duke University, Department of Physics
-A00501	A11040	TUNL	Triangle Universities Nuclear Laboratory
+A00501	A11040	TUNL	Triangle Universities Nuclear Laboratory, North Carolina
 0	A00505	NC Cen U	North Carolina Central University
 0	A00506	UNH	University of New Hampshire
 A00506	A00507	EOS	University of New Hampshire, Institute for the Study of Earth Oceans and Space
@@ -942,7 +942,7 @@ A00589	A11071	Dep Phy	University of Florida, Department of Physics
 0	A00594	UN	United Nations
 A00594	A00595	IAEA	International Atomic Energy Agency, Vienna
 A00594	A00596	IAEA-MEL	International Atomic Energy Agency Marine Environment Labs, Monaco
-A00594	A00597	UNOOSA	UN Office for Outer Space Affairs
+A00594	A00597	UNOOSA	UN Office for Outer Space Affairs, Vienna
 A00594	A00598	UNESCO Delft	Institute for Water Education, Delft
 A00594	A06333	CTBTO	Comprehensive Test-Ban Treaty Organization, Austria
 0	A00599	Hobart Will Smith	Hobart and William Smith Colleges, New York
@@ -1347,8 +1347,8 @@ A00898	A00903	INRS	National Institute for Scientific Research, Canada
 A00898	A05797	ETS	University of Quebec, Ecole de Technologie Superieure, Canada
 A00898	A13034	GEOTOP	GEOTOP Research Centre, Canada
 0	A00904	St Marys Coll	Saint Marys College, California
-0	A00905	Concordia Coll	Concordia College
-0	A00906	Morehead St U	Morehead State University, Minnesota
+0	A00905	Concordia Coll	Concordia College, Minnesota
+0	A00906	Morehead St U	Morehead State University, Kentucky
 0	A00907	W Virginia U	West Virginia University
 A00907	A06171	WVIT	West Virginia Institute of Technology
 0	A00908	U MN Twin Cities	University of Minnesota, Twin Cities
@@ -4369,6 +4369,7 @@ A03553	A03554	Dep Ast Sp Sci	Ege University, Department of Astronomy and Space S
 0	A03557	Gaziantep U	Gaziantep University, Turkey
 0	A03558	Hacettepe U	Hacettepe University, Turkey
 0	A03559	Istanbul U	Istanbul University, Turkey
+A03940	A11422	Dep Ast Sp Sci	Istanbul University, Department of Astronomy and Space Science
 0	A03560	Kahramanmaras U	Kahramanmaras University, Turkey
 0	A03561	Inonu U	Inonu University, Turkey
 0	A03562	Trayka U	Trakya University, Turkey
@@ -4813,7 +4814,6 @@ A03929	A11421	Feza Gursey Inst	Feza Gursey Institute of Physics
 0	A03939	Istanbul Cult U	Istanbul Culture University, Turkey
 0	A03940	Istanbul Tech U	Istanbul Technical University, Turkey
 A03940	A03941	Dep Phy	Istanbul Technical University, Department of Physics
-A03940	A11422	Dep Ast Sp Sci	Istanbul Technical University, Department of Astronomy and Space Science
 0	A03942	Izmir Inst Tech	Izmir Institute of Technology, Turkey
 0	A03943	Kafkas U	Kafkas University, Turkey
 0	A03944	Karadeniz Tech U	Karadeniz Technical University, Turkey
@@ -6753,7 +6753,7 @@ A05738	A05739	Farmington	University of Maine, Farmington
 0	A05748	Cedars-Sinai	Cedars-Sinai Medical Center, California
 0	A05749	CSHL	Cold Spring Harbor Laboratory, New York
 0	A05750	DJTU	Dalian Jiaotong University, China
-0	A05751	EG&G	Edgerton, Germeshausen, and Grier, Inc.
+0	A05751	EG&G	Edgerton, Germeshausen, and Grier, Inc., United States
 0	A05752	ETSF	European Theoretical Spectroscopy Facility
 0	A05753	HNUST	Hebei Normal University of Science and Technology, China
 0	A05754	Hynix	SK Hynix, South Korea
@@ -6844,11 +6844,11 @@ A05812	A06493	CCM	Center for Computational Mathematics, Flatiron Institute, New 
 0	A05857	OR Inst Tech	Oregon Institute of Technology
 0	A05858	Willamette U	Willamette University, Oregon
 0	A05859	Judson Bapt U	Judson Baptist University, Oregon
-0	A05860	George Fox Coll 	George Fox College, Oregon
-0	A05861	OR Coll Ed 	Oregon College of Education
-0	A05863	OMRF 	Oklahoma Medical Research Foundation
-0	A05866	Rigetti 	Rigetti Quantum Computing, California
-0	A05867	Tech-X 	Tech-X Corporation, Colorado
+0	A05860	George Fox Coll	George Fox College, Oregon
+0	A05861	OR Coll Ed	Oregon College of Education
+0	A05863	OMRF	Oklahoma Medical Research Foundation
+0	A05866	Rigetti	Rigetti Quantum Computing, California
+0	A05867	Tech-X	Tech-X Corporation, Colorado
 0	A05868	L3Harris	L3Harris Technologies, Florida
 0	A05869	Eli Lilly	Eli Lilly and Company, Indiana
 0	A05870	USUHS	Uniformed Services University of the Health Sciences, Maryland
@@ -6917,7 +6917,7 @@ A05889	A05890	AIBS	Allen Institute for Brain Science, Washington
 0	A05944	CASIC	China Aerospace Science and Industry Corporation
 A05944	A06011	TJITP	Tianjin Jinhang Institute of Technical Physics, China
 0	A05945	Minzu U	Minzu University of China, Beijing
-0	A05946	Tallinn U	Tallinnn University, Estonia
+0	A05946	Tallinn U	Tallinn University, Estonia
 0	A05947	USP Fiji	University of the South Pacific, Fiji
 0	A05948	Fiji Natl U	Fiji National University
 0	A05949	Inst Pasteur	Institut Pasteur, Paris
@@ -6967,14 +6967,14 @@ A05944	A06011	TJITP	Tianjin Jinhang Institute of Technical Physics, China
 0	A06000	Perkin Elmer	Perkin Elmer Corp, Connecticut
 0	A06001	Phy Sci	Physical Sciences, Inc., Massachusetts
 0	A06002	ADL	Arthur D Little, Inc., Massachusetts
-0	A06003	Spir	Eternal Sun Spire Corporation, Massachusetts
+0	A06003	Spire	Eternal Sun Spire Corporation, Massachusetts
 0	A06004	Cooper Union	Cooper Union for the Advancement of Science and Art, New York
 0	A06005	RPCI	Roswell Park Memorial Cancer Institute, New York
 0	A06006	RTI	Research Triangle Institute, North Carolina
 0	A06012	AAFC	Agriculture and Agri-Food Canada
 0	A06013	BCCARL	British Columbia Cancer Agency Research Laboratory
 0	A06014	Mt Sinai ON	Mount Sinai Hospital, Toronto, Ontario
-0	A06015	OICR	Ontario Institute for Cancer Research
+0	A06015	OICR	Ontario Institute for Cancer Research, Canada
 0	A06016	U N'Djamena	University of N'Djamena, Chad
 0	A06017	GXUN	Guangxi University for Nationalities, China
 0	A06018	IMUN	Inner Mongolia University for Nationalities, China
@@ -7010,7 +7010,7 @@ A06049	A06050	MSU-IIT	Mindanao State University, Iligan Institute of Technology,
 0	A06053	Geo Surv SI	Geological Survey of Slovenia
 0	A06054	KRI	Karst Research Institute, Slovenia
 0	A06055	BSMU	Bukovinian State Medical University, Ukraine
-0	A06056	Merck	Merck Sharp and Dohme, USA
+0	A06056	Merck	Merck Sharp and Dohme, United States
 0	A06057	Can Tho U	Can Tho University, Vietnam
 0	A06058	Duy Tan U	Duy Tan University, Vietnam
 0	A06059	Hue U	Hue University, Vietnam
@@ -7115,7 +7115,7 @@ A06163	A06164	LRI	Lerner Research Institute, Ohio
 0	A06174	FAFU	Fujian Agriculture and Forestry University, China
 0	A06175	Shandong Agr U	Shandong Agricultural University, China
 0	A06176	Shanghai U Eng Sci	Shanghai University of Engineering Science, China
-0	A06177	Foshan U 	Foshan University, China
+0	A06177	Foshan U	Foshan University, China
 0	A06178	U Paris-Saclay	University of Paris-Saclay, France
 A06178	A06197	IJCLab	Irene et Joliot Curie Laboratory
 A06178	A06198	C2N	Centre for Nanoscience and Nanotechnology

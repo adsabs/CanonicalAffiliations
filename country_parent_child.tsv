@@ -1,4 +1,4 @@
-Country	[Aff_id_parent]	Aff_id_child	Inst	Affiliation
+Country	Parent	Child	Abbrev	Canonical Name
 USA		A11118	Adler	Adler Planetarium, Illinois
 USA		A11135	ASTRA	Atmospheric & Space Technology Research Associates (ASTRA)
 USA		A11151	Palmer Div	Palmer Divide Observatory, Colorado
@@ -62,7 +62,7 @@ Germany		A11490	BAV	West German Variable Star Observers
 Germany		A11491	Max Born Inst	Max Born Institute for Nonlinear Optics, Berlin, Germany
 Germany		A11508	M Adrian Obs	Michael Adrian Observatory, Germany
 Iran		A11517	Geo Surv IR	Geological Survey of Iran
-Iran		A11518	ISRC Baghdad	Iranian Space Research Center, Baghdad, Iran
+Iraq		A11518	ISRC Baghdad	Iraqi Space Research Center, Baghdad, Iraq
 Nepal		A11519	Nepal Ast Soc	Nepal Astronomical Society
 Philippines		A11521	PAGASA	Philippine Atmospheric Geophysical and Astronomical Services Administration
 Indonesia		A11524	CVGHM	Center for Volcanology and Geohazards, Indonesia
@@ -1690,6 +1690,7 @@ Mexico	A01185	A01195	Inst Phy Sci	UNAM, Institute of Physical Sciences
 Mexico	A01185	A01196	Inst Phy	UNAM, Institute of Physics
 Mexico	A01185	A01197	Inst Nuc Sci	UNAM, Institute of Nuclear Sciences
 Mexico	A01185	A01198	Inst Mar Sci	UNAM, Institute of Marine Sciences and Limnology
+Mexico	A01185	A06645	Inst Chem	UNAM, Institute of Chemistry
 USA		A01199	Intel	Intel Corporation
 USA		A01200	NOAA	National Oceanic and Atmospheric Administration, Washington
 USA	A01200	A01201	NCEI	National Centers for Environmental Information
@@ -1742,7 +1743,7 @@ USA		A01235	John Brown U	John Brown University, Arkansas
 USA		A01236	NM Inst Min Tech	New Mexico Institute of Mining and Technology
 USA	A01236	A11174	Dep Phy	New Mexico Institute of Mining and Technology, Department of Physics
 USA		A01237	Mt Holyoke Coll	Mount Holyoke College, Massachusetts
-USA	A01237	A11006	Coll Dep Ast	Mount Holyoke College, Department of Astronomy
+USA	A01237	A06602	FCAD	Five College Astronomy Department
 USA	A01237	A11027	FCRAO	Five College Radio Astronomy Observatory
 UK		A01238	U Southampton	University of Southampton, UK
 UK	A01238	A01239	Sch Oc Ear Sci	University of Southampton, School of Ocean and Earth Science
@@ -2238,10 +2239,8 @@ Germany		A01627	U Munich	Ludwig-Maximilians University of Munich, Germany
 Germany	A01627	A01628	Dep Phy	University of Munich, Department of Physics
 Germany	A01627	A01629	Dep Geos	University of Munich, Department of Geosciences
 Germany	A01627	A11474	Inst Ast Astrop	University of Munich, Institute of Astronomy and Astrophysics
-Germany	A01627	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany		A01630	TU Munich	Munich University of Technology, Germany
 Germany	A01630	A01631	Dep Phy	Munich University of Technology, Department of Physics
-Germany	A01630	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany	A01630	A11479	Inst Ast Phy Geod	Munich University of Technology, Institute for Astronomical and Physical Geodesy
 Germany	A01630	A11482	DGFI	German Geodetics Research Institute
 Germany		A01632	U Munster	Wilhelms University of Munster, Germany
@@ -3585,6 +3584,9 @@ France	A02848	A02876	Ripault	Atomic Energy Commission, Le Ripault
 France	A02848	A02914	Saclay Svc Astrop	CEA Saclay, Service d'Astrophysique
 France	A02848	A06199	LIDYL	Lasers, Interactions and Dynamics Laboratory
 France	A02848	A11296	Saclay Svc Phy	CEA Saclay, Service de Physique
+France	A06178	A06638	LPS Saclay	Laboratoire de Physique des Solides, Paris-Saclay
+France	A06178	A06639	GEOPS	Laboratoire Geosciences Paris-Saclay, France
+France	A06178	A06640	GEMaC	Groupe d'Etude de la Matiere Condensee, Versailles
 France		A02852	LIST	Laboratoire d'Integration de Systemes et des Technologies, Orsay
 France		A02856	LPS	Laboratoire Pierre Sue, Gif Sur Yvette
 France		A02857	IPT	Institut de Physique Theorique, Gif Sur Yvette
@@ -3699,6 +3701,7 @@ France	A02976	A04663	GET Toulouse	Geosciences Environnement Toulouse
 France	A02976	A05218	Ctr Ocgy Marseille	Centre d'Oceanologie de Marseille
 France	A02976	A05241	LNCMI-T	National Laboratory of Intense Magnetic Fields, Toulouse
 France	A02976	A06179	Lab d'Aero	Laboratoire d'Aerologie
+France	A02976	A06641	L2IT	Laboratoire des 2 Infinis, Toulouse
 France		A02988	U Tours	Universite Francois Rabelais, Tours, France
 France	A02988	A02989	LMPT	Laboratoire de Mathematiques et Physique Theorique
 France		A02990	U Valenciennes	Universite de Valenciennes, France
@@ -4329,6 +4332,7 @@ Turkey		A03556	Gazi U	Gazi University, Turkey
 Turkey		A03557	Gaziantep U	Gaziantep University, Turkey
 Turkey		A03558	Hacettepe U	Hacettepe University, Turkey
 Turkey		A03559	Istanbul U	Istanbul University, Turkey
+Turkey	A03559	A11422	Dep Ast Sp Sci	Istanbul University, Department of Astronomy and Space Science
 Turkey		A03560	Kahramanmaras U	Kahramanmaras University, Turkey
 Turkey		A03561	Inonu U	Inonu University, Turkey
 Turkey		A03562	Trayka U	Trakya University, Turkey
@@ -4765,7 +4769,6 @@ Turkey		A03938	Istanbul Bilgi U	Istanbul Bilgi University, Turkey
 Turkey		A03939	Istanbul Cult U	Istanbul Culture University, Turkey
 Turkey		A03940	Istanbul Tech U	Istanbul Technical University, Turkey
 Turkey	A03940	A03941	Dep Phy	Istanbul Technical University, Department of Physics
-Turkey	A03940	A11422	Dep Ast Sp Sci	Istanbul Technical University, Department of Astronomy and Space Science
 Turkey		A03942	Izmir Inst Tech	Izmir Institute of Technology, Turkey
 Turkey		A03943	Kafkas U	Kafkas University, Turkey
 Turkey		A03944	Karadeniz Tech U	Karadeniz Technical University, Turkey
@@ -4832,7 +4835,6 @@ USA		A03995	Maria Mitchell Obs	Maria Mitchell Observatory, Massachusetts
 USA		A03996	AIP	American Institute of Physics, New York
 Germany		A03997	ESO	European Southern Observatory, Germany
 Chile	A03997	A03998	Chile	European Southern Observatory, Chile
-Germany	A03997	A11478	Excel Cluster Uni	Excellence Cluster Universe
 Germany	A03997	A11480	STECF	ESO, Space Telescope European Coordinating Facility
 Germany		A03999	Karl Schwarz Obs	Karl Schwarzschild Observatory, Tautenburg, Germany
 Germany	A03999	A11507	Sonneberg Obs	Sonneberg Observatory
@@ -6045,7 +6047,6 @@ China		A05108	QNU	Quanzhou Normal University, China
 Vietnam		A05109	HUST	Hanoi University of Science and Technology, Vietnam
 China		A05110	Guangdong Dep Educ	Guangdong Province Department of Education, China
 China		A05111	XAUST	Xian University of Science and Technology, China
-China		A05112	ZNU	Zhanjiang Normal University, China
 China		A05113	XYNU	Xinyang Normal University, China
 China		A05114	SUCT	Shenyang University of Chemical Technology, China
 China		A05115	HUHST	Hunan University of Humanities Science and Technology, China
@@ -6629,8 +6630,8 @@ China		A05677	Hubei U Sci Tech	Hubei University of Science and Technology, China
 Belarus		A05678	Belarus SPU	Belarusian State Pedagogical University
 Australia		A05679	Austr Synchr Co.	Australian Synchrotron Co.
 Norway		A05680	U Stavanger	University of Stavanger, Norway
-USA		A05681	Deceased	Deceased
-USA		A05682	Retired	Retired
+Unspecified		A05681	Deceased	Deceased
+Unspecified		A05682	Retired	Retired
 USA		A05683	WJC	Washington and Jefferson College, Pennsylvania
 USA		A05684	Westminster Coll UT	Westminster College, Utah
 China		A05685	U Macau	University of Macau, China
@@ -6692,8 +6693,8 @@ UK		A05747	BBC	British Broadcasting Corporation, UK
 USA		A05748	Cedars-Sinai	Cedars-Sinai Medical Center, California
 USA		A05749	CSHL	Cold Spring Harbor Laboratory, New York
 China		A05750	DJTU	Dalian Jiaotong University, China
-Germany		A05751	EG&G	Edgerton, Germeshausen, and Grier, Inc.
-		A05752	ETSF	European Theoretical Spectroscopy Facility
+USA		A05751	EG&G	Edgerton, Germeshausen, and Grier, Inc., United States
+Belgium		A05752	ETSF	European Theoretical Spectroscopy Facility, Belgium
 China		A05753	HNUST	Hebei Normal University of Science and Technology, China
 Korea		A05754	Hynix	SK Hynix, South Korea
 Romania		A05756	IFA Rom	Institute of Atomic Physics, Romania
@@ -6780,11 +6781,11 @@ USA		A05856	Pacific U	Pacific University, Oregon
 USA		A05857	OR Inst Tech	Oregon Institute of Technology
 USA		A05858	Willamette U	Willamette University, Oregon
 USA		A05859	Judson Bapt U	Judson Baptist University, Oregon
-USA		A05860	George Fox Coll 	George Fox College, Oregon
-USA		A05861	OR Coll Ed 	Oregon College of Education
-USA		A05863	OMRF 	Oklahoma Medical Research Foundation
-USA		A05866	Rigetti 	Rigetti Quantum Computing, California
-USA		A05867	Tech-X 	Tech-X Corporation, Colorado
+USA		A05860	George Fox Coll	George Fox College, Oregon
+USA		A05861	OR Coll Ed	Oregon College of Education
+USA		A05863	OMRF	Oklahoma Medical Research Foundation
+USA		A05866	Rigetti	Rigetti Quantum Computing, California
+USA		A05867	Tech-X	Tech-X Corporation, Colorado
 USA		A05868	L3Harris	L3Harris Technologies, Florida
 USA		A05869	Eli Lilly	Eli Lilly and Company, Indiana
 USA		A05870	USUHS	Uniformed Services University of the Health Sciences, Maryland
@@ -7051,7 +7052,7 @@ China		A06173	QNLMST	Qingdao National Laboratory for Marine Science and Technolo
 China		A06174	FAFU	Fujian Agriculture and Forestry University, China
 China		A06175	Shandong Agr U	Shandong Agricultural University, China
 China		A06176	Shanghai U Eng Sci	Shanghai University of Engineering Science, China
-China		A06177	Foshan U 	Foshan University, China
+China		A06177	Foshan U	Foshan University, China
 France		A06178	U Paris-Saclay	University of Paris-Saclay, France
 France	A06178	A06197	IJCLab	Irene et Joliot Curie Laboratory
 France	A06178	A06198	C2N	Centre for Nanoscience and Nanotechnology
@@ -7210,33 +7211,33 @@ China		A13110	Henan UST	Henan University of Science and Technology, China
 China		A13111	Sichuan Agr U	Sichuan Agricultural University, China
 China		A13112	UST Liaoning	University of Science and Technology Liaoning, China
 China		A13113	U Heilongjiang	University of Heilongjiang, China
-		A99973	Curie Fel	Marie Curie Fellow
-		A99974	Worldlab Fel	Worldlab Fellow, Switzerland
-		A99975	Spitzer Fel	Spitzer Fellow
-		A99976	Roy Sci Fel	Royal Society University Research Fellow
+EU		A99973	Curie Fel	Marie Curie Fellow
+Switzerland		A99974	Worldlab Fel	Worldlab Fellow, Switzerland
+USA		A99975	Spitzer Fel	Spitzer Fellow
+UK		A99976	Roy Sci Fel	Royal Society University Research Fellow
 USA		A99977	Welch Fnd	Robert A. Welch Foundation
-		A99978	R Cajal Fel	Ramon y Cajal Fellow
-		A99979	Pres Aut	Presenting Author
-		A99980	Perm Add	Permanent Address
-		A99981	Packard Fel	Packard Fellow
-		A99982	NSERC Fel	NSERC Fellow
-		A99983	NATO Fel	NATO Fellow
-		A99984	NSF Fel	National Science Foundation Fellow
-		A99985	NRC Fel	National Research Council of Canada Fellow
-		A99986	Sagan Fel	Sagan Fellow
-		A99987	Hubble Fel	Hubble Fellow
-		A99988	Heisenberg Fel	Heisenberg Fellow
-		A99989	JSPS Fel	Japan Society for the Promotion of Science Fellow
-		A99990	CONICET Fel	Consejo Nacional de Investigaciones Cientificas y Tecnicas Fellow
-		A99991	DFG Fel	Deutsche Forschungsgemeinschaft Fellow
-		A99992	CNEN Fel	Center for Neurodegeneration and Experimental Neuropathology Fellow
-		A99993	Clay Fel	Clay Fellow
-		A99994	Hertz Fnd Fel	Fannie and John Hertz Foundation Fellow
-		A99995	Corr Aut	Corresponding Author
-		A99996	Equal Aut	These Authors Contributed Equally
-		A99997	Chandra Fel	Chandra Fellow
-		A99998	Sloan Fel	Alfred P. Sloan Fellow
-		A99999	Humboldt Fel	Alexander von Humboldt Fellow
+Spain		A99978	R Cajal Fel	Ramon y Cajal Fellow
+Unspecified		A99979	Pres Aut	Presenting Author
+Unspecified		A99980	Perm Add	Permanent Address
+USA		A99981	Packard Fel	Packard Fellow
+Canada		A99982	NSERC Fel	NSERC Fellow
+Unspecified		A99983	NATO Fel	NATO Fellow
+USA		A99984	NSF Fel	National Science Foundation Fellow
+Canada		A99985	NRC Fel	National Research Council of Canada Fellow
+USA		A99986	Sagan Fel	Sagan Fellow
+USA		A99987	Hubble Fel	Hubble Fellow
+Germany		A99988	Heisenberg Fel	Heisenberg Fellow
+Japan		A99989	JSPS Fel	Japan Society for the Promotion of Science Fellow
+Argentina		A99990	CONICET Fel	Consejo Nacional de Investigaciones Cientificas y Tecnicas Fellow
+Germany		A99991	DFG Fel	Deutsche Forschungsgemeinschaft Fellow
+Italy		A99992	CNEN Fel	Center for Neurodegeneration and Experimental Neuropathology Fellow
+USA		A99993	Clay Fel	Clay Fellow
+USA		A99994	Hertz Fnd Fel	Fannie and John Hertz Foundation Fellow
+Unspecified		A99995	Corr Aut	Corresponding Author
+Unspecified		A99996	Equal Aut	These Authors Contributed Equally
+USA		A99997	Chandra Fel	Chandra Fellow
+USA		A99998	Sloan Fel	Alfred P. Sloan Fellow
+Germany		A99999	Humboldt Fel	Alexander von Humboldt Fellow
 Finland	A00021	A06362	Turku Bios Ctr	Turku Bioscience Center, Finland
 USA	A00493	A06322	HRL Labs	HRL Laboratories, California
 Austria	A00594	A06333	CTBTO	Comprehensive Test-Ban Treaty Organization, Austria
@@ -7595,3 +7596,25 @@ South Korea		A06618	Kyonggi U	Kyonggi University, South Korea
 USA		A06619	Kean U	Kean University, New Jersey
 USA		A06620	Whittier Coll	Whittier College, California
 USA		A06621	MIRA	Monterey Institute for Research in Astronomy, California
+China		A06623	NE For U	Northeast Forestry University, China
+China		A06624	BUCEA	Beijing University of Civil Engineering and Architecture, China
+China		A06625	Hainan U	Hainan University, China
+China		A06626	Henan Agr U	Henan Agricultural University, China
+China		A06627	Guangdong Oc U	Guangdong Ocean University, China
+China		A06628	Chongqing U Arts Sci	Chongqing University of Arts and Sciences, China
+China		A06629	N China U Sci Tech	North China University of Science and Technology
+China		A06630	Qingdao U Tech	Qingdao University of Technology, China
+China		A06631	Jiangsu U Sci Tech	Jiangsu University of Science and Technology, China
+China		A06632	Dongguan U Tech	Dongguan University of Technology, China
+China		A06633	Ningxia U	Ningxia University, China
+China		A06634	Shihezi U	Shihezi University, China
+China		A06635	Anhui Agr U	Anhui Agricultural University, China
+China		A06636	Angui Med U	Anhui Medical University, China
+China		A06637	Zhejiang Agr For U	Zhejiang Agriculture and Forestry University, China
+India		A06642	Punjab Agr U	Punjab Agricultural University, India
+India		A06643	Chandigarh U	Chandigarh University, India
+Malaysia		A06644	U Malaysia Terengganu	Universiti Malaysia Terengganu
+Nigeria		A06646	U Calabar	University of Calabar, Nigeria
+France		A06648	Bordeaux INP	Institut Polytechnique de Bordeaux, France
+France	A06648	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
+China		A06649	NE Agr U	Northeast Agricultural University, China
