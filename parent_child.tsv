@@ -4369,7 +4369,7 @@ A03553	A03554	Dep Ast Sp Sci	Ege University, Department of Astronomy and Space S
 0	A03557	Gaziantep U	Gaziantep University, Turkey
 0	A03558	Hacettepe U	Hacettepe University, Turkey
 0	A03559	Istanbul U	Istanbul University, Turkey
-A03940	A03559	Dep Ast Sp Sci	Istanbul University, Department of Astronomy and Space Science
+A03940	A11422	Dep Ast Sp Sci	Istanbul University, Department of Astronomy and Space Science
 0	A03560	Kahramanmaras U	Kahramanmaras University, Turkey
 0	A03561	Inonu U	Inonu University, Turkey
 0	A03562	Trayka U	Trakya University, Turkey
@@ -6844,11 +6844,11 @@ A05812	A06493	CCM	Center for Computational Mathematics, Flatiron Institute, New 
 0	A05857	OR Inst Tech	Oregon Institute of Technology
 0	A05858	Willamette U	Willamette University, Oregon
 0	A05859	Judson Bapt U	Judson Baptist University, Oregon
-0	A05860	George Fox Coll 	George Fox College, Oregon
-0	A05861	OR Coll Ed 	Oregon College of Education
-0	A05863	OMRF 	Oklahoma Medical Research Foundation
-0	A05866	Rigetti 	Rigetti Quantum Computing, California
-0	A05867	Tech-X 	Tech-X Corporation, Colorado
+0	A05860	George Fox Coll	George Fox College, Oregon
+0	A05861	OR Coll Ed	Oregon College of Education
+0	A05863	OMRF	Oklahoma Medical Research Foundation
+0	A05866	Rigetti	Rigetti Quantum Computing, California
+0	A05867	Tech-X	Tech-X Corporation, Colorado
 0	A05868	L3Harris	L3Harris Technologies, Florida
 0	A05869	Eli Lilly	Eli Lilly and Company, Indiana
 0	A05870	USUHS	Uniformed Services University of the Health Sciences, Maryland
@@ -7115,7 +7115,7 @@ A06163	A06164	LRI	Lerner Research Institute, Ohio
 0	A06174	FAFU	Fujian Agriculture and Forestry University, China
 0	A06175	Shandong Agr U	Shandong Agricultural University, China
 0	A06176	Shanghai U Eng Sci	Shanghai University of Engineering Science, China
-0	A06177	Foshan U 	Foshan University, China
+0	A06177	Foshan U	Foshan University, China
 0	A06178	U Paris-Saclay	University of Paris-Saclay, France
 A06178	A06197	IJCLab	Irene et Joliot Curie Laboratory
 A06178	A06198	C2N	Centre for Nanoscience and Nanotechnology
