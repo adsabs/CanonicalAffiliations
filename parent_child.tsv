@@ -4266,7 +4266,6 @@ A03466	A03629	ASIAA	Institute of Astronomy and Astrophysics Academia Sinica
 A03466	A03630	Inst Phy	Institute of Physics, Taiwan
 A03466	A03631	Inst Ear Sci	Institute of Earth Sciences, Taiwan
 A03466	A11530	Inst Ast	National Tsing-Hua University, Taiwan, Institute for Astronomy
-0	A03471	NYMU	National Yang-Ming University, Taiwan
 0	A03472	YunTech	National Yunlin University of Science and Technology, Taiwan
 0	A03473	Tamkang U	Tamkang University, Taiwan
 0	A03474	CYCU	Chung Yuan Christian University, Taiwan
@@ -4283,7 +4282,6 @@ A03479	A03480	Dep Ear Sci	National Cheng Kung University, Department of Earth Sc
 A03479	A03481	Dep Phy	National Cheng Kung University, Department of Physics
 A03479	A11533	PSSC	National Cheng Kung University, Taiwan, Institute for Space Astrophysical and Plasma Sciences
 0	A03482	NCCU	National Chengchi University, Taiwan
-0	A03483	NCTU	National Chiao Tung University, Taiwan
 0	A03484	CCU Taiwan	National Chung Cheng University, Taiwan
 0	A03485	NCHU Taiwan	National Chung Hsing University, Taiwan
 0	A03486	Ajou U	Ajou University, Korea
@@ -6369,7 +6367,7 @@ A05326	A05497	HIIT	Helsinki Institute for Information Technology, Finland
 0	A05364	UGA Tbilisi	University of Georgia, Tbilisi, Georgia
 0	A05365	Latvian Ac Sci	Latvian Academy of Sciences
 A05365	A11449	Ventspils IRAC	Ventspils International Radio Astronomy Center
-0	A05366	Anambra St U	Anambra State University, Nigeria
+0	A05366	Chukwuemeka Odumegwu Ojukwu U	Chukwuemeka Odumegwu Ojukwu University, Nigeria
 0	A05367	Geop Inst Peru	Geophysical Institute of Peru
 0	A05368	IIAP	Instituto de Investigacion de la Amazonia, Peru
 0	A05369	CONIDA Peru	National Commission for the Investigation and Development of Space, Peru
@@ -7539,6 +7537,61 @@ A06616	A06617	IAP Moldova	Institute of Applied Physics, Moldova
 0	A06648	Bordeaux INP	Institut Polytechnique de Bordeaux, France
 A06648	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
 0	A06649	NE Agr U	Northeast Agricultural University, China
+0	A06650	Shenyang Agr U	Shenyang Agricultural University, China
+0	A06651	Qingdao Agr U	Qingdao Agricultural University, China
+0	A06652	Jiangxi Agr U	Jiangxi Agricultural University, China
+0	A06653	NE Elec Power U	Northeast Electric Power University, China
+0	A06654	Henan U Tech	Henan University of Technology, China
+0	A06655	Zhejiang Gongshang U	Zhejiang Gongshang University, China
+0	A06656	Shandong Jianzhu U	Shandong Jianzhu University, China
+0	A06657	Dalian Poly U	Dalian Polytechnic University, China
+0	A06658	N China U Water Res Ele Pwr	North China University of Water Resources and Electric Power, China
+0	A06659	Dalian Oc U	Dalian Ocean University, China
+0	A06660	Gansu Agr U	Gansu Agricultural University, China
+0	A06661	Jilin Agr U	Jilin Agricultural University, China
+0	A06662	Wenzhou Med U	Wenzhou Medical University, Chona
+0	A06663	Shanxi Agr U	Shanxi Agricultural University, China
+0	A06664	Xihua U	Xihua University, China
+0	A06665	Chongqing Med U	Chongqing Medical University, China
+0	A06666	Harbin Med U	Harbin Medical University, China
+0	A06667	Shijiazhuang Tiedao U	Shijiazhuang Tiedao University, China
+0	A06668	Hebei Agr U	Hebei Agricultural University, China
+0	A06669	E China U Tech	East China University of Technology, China
+0	A06670	Tianjin Med U	Tianjin Medical University, China
+0	A06671	Hebei U Eng	Hebei University of Engineering, China
+0	A06672	Qinghai U	Qinghai University, China
+0	A06673	Fujian Med U	Fujian Medical University, China
+0	A06674	Yunnan Agr U	Yunnan Agricultural University, China
+0	A06675	SW For U	Southwest Forestry University, China
+0	A06676	Shenyang Pharm U	Shenyang Pharmaceutical University, China
+0	A06677	Westlake U	Westlake University, China
+0	A06678	Tianjin Chengjian U	Tianjin Chengjian University, China
+0	A06679	Shenyang Jianzhu U	Shenyang Jianzhu University, China
+0	A06680	Linyi U	Linyi University, China
+0	A06681	Taizhou U	Taizhou University, China
+0	A06682	Qiqihar U	Qiqihar University, China
+0	A06684	Anhui Poly U	Anhui Polytechnic University, China
+0	A06685	Hungarian U Agr Life Sci	Hungarian University of Agriculture and Life Sciences
+0	A06686	Fed U Technology Imo	Federal University of Technology - Imo State, Nigeria
+0	A06688	Nnamdi Azikiwe U	Nnamdi Azikiwe University, Nigeria
+0	A06689	Osun St U	Osun State University, Nigeria
+0	A06690	Ebonyi St U	Ebonyi State University, Nigeria
+0	A06691	Ekiti St U	Ekiti State University, Nigeria
+0	A06692	Fed U Lokoja	Federal University Lokoja, Nigeria
+0	A06693	Akwa Ibom St U	Akwa Ibom State University, Nigeria
+0	A06694	Delta St U	Delta State University, Nigeria
+0	A06695	Siberian St U Geosys Tech	Siberian State University of Geosystems and Technologies, Russia
+0	A06696	Prncss Nourah bint Abdulrahman U	Princess Nourah bint Abdulrahman University, Saudi Arabia
+0	A06697	Estrn U Sri Lanka	Eastern University Sri Lanka
+0	A06698	S Estrn U Sri Lanka	South Eastern University of Sri Lanka
+0	A06699	Bozok U	Bozok University, Turkey
+0	A06700	Izmir Bakircay U	Izmir Bakircay University, Turkey
+0	A06701	Keene St Coll	Keene State College, New Hampshire
+0	A06702	Plymouth St U	Plymouth State University, New Hampshire
+0	A06703	Taiz U	Taiz University, Yemen
+0	A06704	NYCU	National Yang Ming Chiao Tung University, Taiwan
+A06704	A03471	NYMU	National Yang Ming University, Taiwan
+A06704	A03483	NCTU	National Chiao Tung University, Taiwan
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
