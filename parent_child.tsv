@@ -3354,7 +3354,7 @@ A02509	A13073	JRCAT	Joint Research Center for Atom Technology, Japan
 0	A02524	SW U China	Southwest University, China
 0	A02525	Shunde Tech	Shunde Polytechnic, Guangdong, China
 0	A02526	S China U Tech	South China University of Technology
-0	A02527	Zhongshan U	Zhongshan University, China
+0	A02527	Sun Yat-sen U	Sun Yat-sen University, China
 0	A02528	Yanshan U	Yanshan University, China
 0	A02529	Three Gorges U	Three Gorges University, China
 0	A02530	NW Poly U	Northwestern Polytechnical University, China
@@ -7592,6 +7592,7 @@ A06648	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
 0	A06704	NYCU	National Yang Ming Chiao Tung University, Taiwan
 A06704	A03471	NYMU	National Yang Ming University, Taiwan
 A06704	A03483	NCTU	National Chiao Tung University, Taiwan
+0  A06705  DZA  Deutschen Zentrum fur Astrophysik, Germany
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
