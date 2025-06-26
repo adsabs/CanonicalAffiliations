@@ -1064,7 +1064,7 @@ USA	A00676	A00677	NSSTC	NASA National Space Science and Technology Center
 USA	A00676	A00678	SLPSRA	NASA Space Life and Physical Sciences Research and Applications Laboratory
 USA		A00680	NASA JSC	NASA Johnson Space Center
 USA		A00681	NASA Ames	NASA Ames Research Center
-USA		A00682	NASA JFK Sp Ctr	NASA John F. Kennedy Space Center
+USA		A00682	NASA KSC	NASA John F. Kennedy Space Center
 USA		A00684	NASA John Glenn	NASA John H. Glenn Research Center
 USA		A00685	NASA Langley	NASA Langley Research Center
 USA		A00686	NASA MSFC	NASA Marshall Space Flight Center
@@ -4881,7 +4881,7 @@ USA		A03985	NOAO	National Optical Astronomy Observatory, Arizona
 USA	A03985	A11162	KPNO	Kitt Peak Observatory, NOAO
 Chile	A03985	A11712	CTIO	Cerro Tololo Interamerican Observatory
 USA		A03986	PSI AZ	Planetary Science Institute, Arizona
-USA		A03987	GSFC	NASA Goddard Space Flight Center, Maryland
+USA		A03987	NASA GSFC	NASA Goddard Space Flight Center, Maryland
 USA	A03987	A00948	GISS	Goddard Institute for Space Studies
 USA	A03987	A11045	CRESST	Center for Research and Exploration in Space Science & Technology
 USA	A03987	A11046	JCET	Joint Center for Earth Systems Technology, UMD, Baltimore

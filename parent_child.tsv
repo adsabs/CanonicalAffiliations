@@ -1064,7 +1064,7 @@ A00676	A00677	NSSTC	NASA National Space Science and Technology Center
 A00676	A00678	SLPSRA	NASA Space Life and Physical Sciences Research and Applications Laboratory
 0	A00680	NASA JSC	NASA Johnson Space Center
 0	A00681	NASA Ames	NASA Ames Research Center
-0	A00682	NASA JFK Sp Ctr	NASA John F. Kennedy Space Center
+0	A00682	NASA KSC	NASA John F. Kennedy Space Center
 0	A00684	NASA John Glenn	NASA John H. Glenn Research Center
 0	A00685	NASA Langley	NASA Langley Research Center
 0	A00686	NASA MSFC	NASA Marshall Space Flight Center
@@ -4881,7 +4881,7 @@ A03968	A13075	IASF Palermo	Institute for Cosmic Physics, Palermo
 A03985	A11162	KPNO	Kitt Peak Observatory, NOAO
 A03985	A11712	CTIO	Cerro Tololo Interamerican Observatory
 0	A03986	PSI AZ	Planetary Science Institute, Arizona
-0	A03987	GSFC	NASA Goddard Space Flight Center, Maryland
+0	A03987	NASA GSFC	NASA Goddard Space Flight Center, Maryland
 A03987	A00948	GISS	Goddard Institute for Space Studies
 A03987	A11045	CRESST	Center for Research and Exploration in Space Science & Technology
 A03987	A11046	JCET	Joint Center for Earth Systems Technology, UMD, Baltimore
