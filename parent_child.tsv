@@ -530,6 +530,8 @@ A00268	A00279	Lehman Coll	Lehman College, New York
 A00268	A00280	Brooklyn Coll	Brooklyn College, New York
 A00268	A00281	Baruch Coll	Baruch College, New York
 A00268	A00282	Hunter Coll	Hunter College, New York
+A00268	A05884	Icahn	Mount Sinai, Icahn School of Medicine, New York
+A00268	A06846	Grad Ctr	Graduate Center, New York
 0	A00283	Manhattan Coll	Manhattan College, New York
 0	A00284	S Dakota St U	South Dakota State University
 0	A00285	Syracuse U	Syracuse University, New York
@@ -1218,7 +1220,7 @@ A00794	A00805	Ctr Plan Sci	Centre for Planetary Sciences at UCL/Birkbeck
 0	A00802	U Coll London	University College London, UK
 A00802	A00803	Dep Ear Sci	University College London, Department of Earth Sciences
 A00802	A00804	Dep Phy Ast	University College London, Department of Physics and Astronomy
-A00802	A00805	Ctr Plan Sci	Center for Planetary Sciences at UCL/Birkbeck
+A00802	A00805	Ctr Plan Sci	Centre for Planetary Sciences at UCL/Birkbeck
 A00802	A00806	Obs	University of London Observatory
 A00802	A11762	Mullard Sp Sci Lab	University College London, Mullard Space Science Laboratory
 0	A00807	U Westminster	University of Westminster, UK
@@ -1947,7 +1949,7 @@ A01355	A11098	Dep Phy Ast	University of Alabama, Department of Physics and Astro
 A01357	A01358	Dep Phy	Umea University, Department of Physics
 A01357	A13017	IRF Umea	Swedish Institute of Space Physics, Umea
 0	A01359	Saginaw Vall St U	Saginaw Valley State University, Michigan
-0	A01360	PSU	Pennsylvania State University
+0	A01360	Penn St	Pennsylvania State University
 A01360	A01361	Sch Eng	Pennsylvania State University, School of Engineering
 A01360	A01362	Dep Geos	Pennsylvania State University, Department of Geosciences
 A01360	A01363	Erie Behrend Coll	Pennsylvania State University, Erie Behrend College
@@ -1956,6 +1958,11 @@ A01360	A01365	Lehigh Vall	Pennsylvania State University, Lehigh Valley
 A01360	A01366	Wilkes-Barre	Pennsylvania State University, Wilkes-Barre
 A01360	A01367	Berks	Pennsylvania State University, Berks
 A01360	A01368	Dep Ear Sci	Pennsylvania State University, Department of Earth Sciences
+A01360	A06828	Altoona	Pennsylvania State University, Altoona
+A01360	A06829	Med Ctr	Pennsylvania State University, Hershey Medical Center
+A01360	A06830	Gr Allegheny	Pennsylvania State University, Greater Allegheny/McKeesport
+A01360	A06831	Harrisburg	Pennsylvania State University, Harrisburg
+A01360	A06832	Malvern	Pennsylvania State University, Malvern
 A01360	A11010	Dep Ast	Pennsylvania State University, Department of Astronomy
 A01360	A11011	Dep Phy	Pennsylvania State University, Department of Physics
 A01360	A11041	IGC	Pennsylvania State University, Institute for Gravitation and the Cosmos
@@ -1995,13 +2002,13 @@ A01392	A11019	Dep Ast Astrop	Villanova University, Department of Astronomy and A
 0	A01396	Brandeis U	Brandeis University, Massachusetts
 A01396	A11015	Dep Phy	Brandeis University, Department of Physics
 0	A01397	SI	Smithsonian Institution
-A01397	A01398	MNH	National Museum of Natural History
+A01397	A01398	NMNH	National Museum of Natural History
 A01397	A01399	Air Sp Mus	Smithsonian Institution Air and Space Museum
 A01397	A01400	CfA	Harvard Smithsonian Center for Astrophysics
 A01397	A11032	SAO	Smithsonian Astrophysical Observatory
 A01397	A11033	Whipple Obs	Whipple Observatory, Mt Hopkins
 0	A01401	U DC	University of the District of Columbia
-A01401	A06777	Sch Law	University of the District of Columbia, David A Clarke School of Law
+A01401	A06777	Sch Law	David A Clarke School of Law
 0	A01402	AAAS	American Association for the Advancement of Science
 0	A01403	American U	American University, Washington DC
 0	A01404	Catholic U	Catholic University, Washington DC
@@ -6164,7 +6171,7 @@ A05122	A11454	Ast Inst	Kazakhstan National Academy of Sciences, Astrophysical In
 0	A05133	CEFET CE	Federal Center of Technological Education, Ceara, Brazil
 0	A05134	UFPA	Federal University of Para, Brazil
 0	A05135	Christ U Bangalore	Christ University, Bangalore
-0	A05136	ARCI	Advanced Research Center for Powder Metallurgy and New Materials, Hydrabad, India
+0	A05136	ARCI	Advanced Research Centre for Powder Metallurgy and New Materials, Hydrabad, India
 0	A05137	NITK	National Institute of Technology Karnataka, India
 0	A05138	METRI KMA	Korea Meteorological Administration
 0	A05139	Tokyo City U	Tokyo City University, Japan
@@ -6179,7 +6186,7 @@ A05142	A05143	CIOp	Center of Optical Research, Argentina
 0	A05149	INE	Instituto Nacional de Ecologia, Mexico
 0	A05150	U Nicosia	University of Nicosia, Cyprus
 0	A05151	IIT Genoa	Italian Institute of Technology, Genoa
-0	A05152	U Lubumbashi	University of Lubumbashi, Democratic Republic of Congo
+0	A05152	U Lubumbashi	University of Lubumbashi, Democratic Rebublic of Congo
 0	A05153	UNSA	National University of Saint Augustine, Peru
 0	A05154	SGSITS	Shri Govindram Seksaria Institute of Technology and Science, India
 0	A05155	Bhilai Inst Tech	Bhilai Institute of Technology, India
@@ -6837,6 +6844,7 @@ A05804	A05805	Celera Gen	Celera Genomics, California
 0	A05806	JCVI	J. Craig Venter Institute for Genomic Research, Maryland
 0	A05807	Gigaphoton	Gigaphoton, Inc., Japan
 0	A05808	App Mat Inc	Applied Materials, Inc, California
+A05808	A06854	Varian Semi	Varian Semiconductor
 0	A05809	Lumentum	Lumentum, Inc., California
 0	A05812	Flatiron Inst	Flatiron Institute, New York
 A05812	A06491	CCA	Center for Computational Astrophysics, Flatiron Institute, New York
@@ -7118,6 +7126,7 @@ A06105	A06106	Erasmus MC	Erasmus Medical College, The Netherlands
 0	A06131	HeUST	Hebei University of Science and Technology, China
 0	A06133	Union Conc Sci	Union of Concerned Scientists, Massachusetts
 0	A06134	Agilent	Agilent Technologies, Inc., California
+A06134	A06853	Varian Inc	Varian Inc., California
 0	A06135	U San Fran	University of San Francisco, California
 0	A06136	Teledyne	Teledyne Technologies, Inc., California
 0	A06140	Aerojet	Aerojet Rocketdyne Technologies, Inc., California
@@ -7327,7 +7336,7 @@ A06338	A06339	PetroChina	CNPC, PetroChina
 0	A06378	UEH Haiti	State University of Haiti
 0	A06379	ELI ALPS	Extreme Light Infrastructure ALPS, Hungary
 0	A06380	Bharathidasan U	Bharathidasan University, India
-A06380	A06381	Ctr Nonlin Dyn	Bharathidasan University, Center for Nonlinear Dynamics, India
+A06380	A06381	Ctr Nonlin Dyn	Bharathidasan University, Centre for Nonlinear Dynamics, India
 0	A06382	Acharya Nagarjuna U	Acharya Nagarjuna University, India
 0	A06383	Thapar U	Thapar University, India
 0	A06384	Alagappa U	Alagappa University, India
@@ -7352,7 +7361,7 @@ A06380	A06381	Ctr Nonlin Dyn	Bharathidasan University, Center for Nonlinear Dyna
 0	A06403	MOES	Ministry of Earth Science, India
 A06403	A03302	India Met Dep	India Meteorological Department, Delhi, India
 A06403	A04908	IITM	Indian Institute of Tropical Meteorology, Pune
-A06403	A06404	NCMRWF	National Center for Medium Range Weather Forecasting, India
+A06403	A06404	NCMRWF	National Centre for Medium Range Weather Forecasting, India
 0	A06405	NIT Agartala	National Institute of Technology Agartala, India
 0	A06406	NIT Durgapur	National Institute of Technology Durgapur, India
 0	A06407	NIT Warangal	National Institute of Technology Warangal, India
@@ -7619,7 +7628,7 @@ A06648	A06647	ICMCB	Institut de Chimie de Matiere Condensee de Bordeaux
 0	A06691	Ekiti St U	Ekiti State University, Nigeria
 0	A06692	Fed U Lokoja	Federal University Lokoja, Nigeria
 0	A06693	Akwa Ibom St U	Akwa Ibom State University, Nigeria
-0	A06694	Delta St U	Delta State University, Nigeria
+0	A06694	Delta St U Nigeria	Delta State University, Nigeria
 0	A06695	Siberian St U Geosys Tech	Siberian State University of Geosystems and Technologies, Russia
 0	A06696	Prncss Nourah bint Abdulrahman U	Princess Nourah bint Abdulrahman University, Saudi Arabia
 0	A06697	Estrn U Sri Lanka	Eastern University Sri Lanka
@@ -7724,6 +7733,35 @@ A06813	A13091	Edinboro U	Edinboro University, Pennsylvania
 0	A06817	Seagate	Seagate Technology, California
 0	A06822	Apple	Apple Inc, California
 0	A06823	FL Poly	Florida Polytechnic University, Florida
+0	A06824	Phila U	Philadelphia University, Pennsylvania
+0	A06825	Phila U Jordan	Philadelphia University, Jordan
+0	A06826	DLSU	 De La Salle University, Philippines
+0	A06827	U Lincoln	University of Lincoln, United Kingdom
+0	A06833	Athens St U	Athens State University, Alabama
+0	A06834	Jacksonville St U	Jacksonville State University, Alabama
+0	A06835	Samford U	Samford University, Alabama
+0	A06836	Troy U	Troy University, Alabama
+0	A06837	Delta St U MS	Delta State University, Mississippi
+0	A06838	Tarleton St U	Tarleton State University, Texas
+0	A06839	Geol Surv AL	Geological Survey of Alabama
+0	A06840	Sthn Res	Southern Research, Alabama
+0	A06841	Evergreen St Coll	Evergreen State College, Washington
+0	A06842	Truman St Coll	Truman State College, Missouri
+0	A06843	Vermont St U	Vermont State University
+A06843	A06857	Castleton St Coll	Castleton State College, Vermont
+A06843	A06858	Lyndon St Coll	Lyndon State College, Vermont
+A06843	A06859	Johnson St Coll	Johnson State College, Vermont
+A06843	A06860	VT Tech	Vermont Technical College
+0	A06844	Montclair St U	Montclair State University, New Jersey
+0	A06845	Pace U	Pace University, New York
+0	A06847	Adobe Sys	Adobe Systems Inc., California
+0	A06848	Amazon	Amazon Inc., Washington
+0	A06849	Meta	Meta Inc., California
+0	A06850	Varian Assoc	Varian Associates, California
+A06850	A06851	Varian Med Sys	Varian Medical Systems, Inc., California
+A06850	A06852	Varian Semicond	Varian Semiconductor, Massachusetts
+0	A06855	APS	American Physical Society, Maryland
+0	A06856	AMS	American Meteorological Society, Massachusetts
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania
